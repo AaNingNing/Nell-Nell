@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "47aa44d2db359ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5e31d498647f5f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "643d1efd5de7ddc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2c4fc7ecf45313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78adbaa0ce0f4f74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc98ae3a7378d96c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3283e38a99c06233",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72bbb360809b36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ef5c8933c67c13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c5e31d498647f5f",
+  "lastOpenFiles": [
+    "README.md",
+    "就算这个社会很复杂也应该一直保持善良吗？.md",
+    "男生不喜欢戴首饰，但未婚妻要求结婚之后必须戴婚戒，有什么两全其美的解决办法？.md",
+    "如何评价电视剧《现代弥赛亚》？.md",
+    "如何看待父母无恩论？.md",
+    "会有一个错误决定改变你的一生吗？.md",
+    "【致读者】.md",
+    "什么是善良?.md",
+    "待分类/民族主义.md",
+    "01 - “怎么办”系列/以爱之名.md"
+  ]
+}
