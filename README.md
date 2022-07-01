@@ -38,7 +38,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 授权证明：
 [[转载授权_NellNell.PNG]]
-核对日期：24/06/2022
+核对日期：02/07/2022
 
 
 ---
@@ -48,6 +48,6 @@ https://zhuanlan.zhihu.com/p/380200295
 #### Label format
 
 >Author: #NellNell 
->Last update: *24/06/2022* 
+>Last update: *02/07/2022* 
 >Links: 
 >Tags: 
