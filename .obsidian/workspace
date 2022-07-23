@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "你是怎么不让自己的爱变成贪的？.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2c2efaeb74e1511e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
+            "file": "为什么很多人分不清楚权力和权利？.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "你是怎么不让自己的爱变成贪的？.md",
+                "file": "为什么很多人分不清楚权力和权利？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c5e31d498647f5f",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "如何评价电影Margin Call（商海通牒）？.md",
-    "你是怎么不让自己的爱变成贪的？.md",
-    "几天前我遇到一位老人，说外省和外国根本不存在，这很荒谬，但我却完全说服不了他，请问如何反驳他的言论？.md",
-    "美国 17 岁女孩后悔做变性手术，称「被社交媒体影响，不明白变性的后果」，如何看待青少年变性问题？.md",
-    "什么才是真正的善？.md",
-    "如何评价电影《咒》？.md",
-    "情侣之间应该有隐私吗？夫妻之间应该有隐私吗？.md",
-    "怎么看待余秀华的诗？.md",
+    "如何才能变得自恋？.md",
+    "真正已被社会性死亡的人，该活着还是自我结束？哪种选择的结局更好？.md",
+    "如何处理抑郁症期间与父母的矛盾？.md",
+    "较真这种性格好吗？在什么情况下需要较真？.md",
+    "普京称「西方的地位很大程度上是通过抢劫别的民族获得的」，如何看待其观点？.md",
+    "为什么很多人分不清楚权力和权利？.md",
+    "【致读者】.md",
     "README.md",
-    "待分类/什么才是真正的恶？.md"
+    "待分类/什么才是真正的善？.md",
+    "待分类/你是怎么不让自己的爱变成贪的？.md"
   ]
 }
