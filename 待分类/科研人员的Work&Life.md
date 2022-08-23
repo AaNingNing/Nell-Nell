@@ -1,13 +1,11 @@
 # 科研人员的Work&Life
 [为什么有些科研人员觉得「996 还要 +0.5」？](https://www.zhihu.com/question/319997919/answer/650373977)
 
-> Author: #NellNell 
-Last update: *21/08/2021* 
+> Author: #NellNell
+Last update: *21/08/2021*
 Links:
-Tags:   
+Tags:
 
-
- 
 谢邀。4/14更新。
 
 其实不止科研人员，还有做自媒体、美妆博主、作家、艺术家、开淘宝店的、自己创业的、在家做家庭主妇的……

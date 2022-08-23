@@ -1,12 +1,9 @@
 # Bible女性系列5——喇和
 
-> Author: #NellNell 
-Last update: *21/08/2021* 
+> Author: #NellNell
+Last update: *21/08/2021*
 Links:
-Tags: 
-
-
-  
+Tags:
 
 喇和的故事是以色列进迦南的开篇。
 

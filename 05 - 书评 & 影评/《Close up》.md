@@ -1,13 +1,10 @@
 # 《Close up》
 [类似《十二怒汉》的电影还有哪些？](https://www.zhihu.com/question/21042767/answer/23789434)
 
-
-> Author: #NellNell 
-Last update: *21/08/2021* 
+> Author: #NellNell
+Last update: *21/08/2021*
 Links:
-Tags: 
-
-  
+Tags:
 
 我推荐一个跟《十二怒汉》一样是庭审片，但我更为偏爱的一部，是伊朗导演阿巴斯的《Close Up》。以下是对两片的比较。
 
