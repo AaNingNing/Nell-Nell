@@ -1,4 +1,4 @@
-## 「黑脸」（blackface）小科普
+# 「黑脸」（blackface）小科普
 
 > Author: #NellNell 
 Last update: *21/08/2021* 

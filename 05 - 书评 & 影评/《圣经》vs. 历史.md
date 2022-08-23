@@ -1,6 +1,5 @@
 # 《圣经》vs. 历史
 
-
 > Author: #NellNell 
 Last update: *21/08/2021* 
 Links:
