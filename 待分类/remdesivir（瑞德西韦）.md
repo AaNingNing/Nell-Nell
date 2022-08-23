@@ -1,13 +1,10 @@
 # remdesivir（瑞德西韦）
 [美国首例新冠病毒患者使用未获批药 remdesivir（瑞德西韦）后大幅好转，它有望成为病毒克星吗？](https://www.zhihu.com/question/368940464/answer/994380235)
 
-
-> Author: #NellNell 
-Last update: *22/08/2021* 
+> Author: #NellNell
+Last update: *22/08/2021*
 Links:
-Tags:  
-
-  
+Tags:
 
 2/3补充，因为越想越不对劲：
 

@@ -1,13 +1,10 @@
 # 《心灵奇旅》（Soul）
 [如何评价皮克斯动画电影《心灵奇旅》（Soul）？](https://www.zhihu.com/question/332013569/answer/1650639983)
 
-> Author: #NellNell 
-Last update: *28/08/2021* 
+> Author: #NellNell
+Last update: *28/08/2021*
 Links:
-Tags: 
-
-
-  
+Tags:
 
 Pete Docter的《Soul》和他2009的《飞屋环游记》主题是一脉相承的。
 
@@ -17,11 +14,9 @@ Pete Docter的《Soul》和他2009的《飞屋环游记》主题是一脉相承�
 
 《Christianity Today》曾和Docter做过一次采访，当时说的是《飞屋环游记》，但这段话也可以作为《Soul》的注脚[1](#ref_1)：
 
-> Basically, the message of the film is that the real adventure of life is the relationship we have with other people, and it's so easy to lose sight of the things we have and the people that are around us until they're gone. More often than not I don't really realize how lucky I was to have known someone until they're either moved or passed away. So if you can kind of wake up a little bit and go, Wow, I've got some really cool stuff around me every day, then that's what the movie's about.  
->   
+> Basically, the message of the film is that the real adventure of life is the relationship we have with other people, and it's so easy to lose sight of the things we have and the people that are around us until they're gone. More often than not I don't really realize how lucky I was to have known someone until they're either moved or passed away. So if you can kind of wake up a little bit and go, Wow, I've got some really cool stuff around me every day, then that's what the movie's about.
+>
 > （意译：这部电影讲的是，真正的探险就是**人与人之间的关系**。我们常常忽略身边的人和事，直到他们离开我们才有所察觉。我自己也有过这样的经历，所以知道爱的人在身边是多么幸运的一件事。希望各位看完电影以后也可以告诉自己，原来我身边还有这么多宝贵的人和事。)
-
-  
 
 对**人与人之间关系的探索**，是贯穿《飞屋环游记》、《头脑特工队》和现在这部《Soul》中的一条红线。
 

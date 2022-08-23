@@ -1,13 +1,10 @@
 # N号房
 [如何看待韩国闹很大的 N 号房事件？](https://www.zhihu.com/question/381428797/answer/1105715387)
 
-
-> Author: #NellNell 
-Last update: *20/08/2021* 
+> Author: #NellNell
+Last update: *20/08/2021*
 Links:
-Tags: 
-
-  
+Tags:
 
 这里面有一个细节，就是**要求女性扮演奴隶**的角色。
 
