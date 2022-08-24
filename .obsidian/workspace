@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "张艺谋与李安曾经都很优秀，他们现在的差异是什么造成的？.md",
+            "file": "成功教育.md",
             "mode": "source",
             "source": false
           }
@@ -48,12 +48,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d24e88949b4048ef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 193
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -69,8 +78,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张艺谋与李安曾经都很优秀，他们现在的差异是什么造成的？.md",
-                "collapseAll": false,
+                "file": "成功教育.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -79,25 +88,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2b66238a518c7276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 218.3333282470703,
     "collapsed": true
   },
-  "active": "78adbaa0ce0f4f74",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
+    "深邃 & 幼稚.md",
+    "母婴室平替.md",
     "README.md",
-    "张艺谋与李安曾经都很优秀，他们现在的差异是什么造成的？.md",
-    "道歉已经没用，该如何处理与对方的关系？.md",
-    "5 名美国议员乘军机窜访中国台湾，哪些信息值得关注？.md",
-    "太容易尴尬怎么办?.md",
-    "怎样在感情里做到洒脱，敢爱敢恨敢放下？.md",
-    "待分类/如何看待「丁香园」系列账号被禁言？.md",
-    "待分类/世界大战开始普通人如何自保?.md",
-    "待分类/如何看待民进党前立委郭正亮称「解放军军演让美国和岛内激进派现原形」？.md",
-    "待分类/马丁路德.md"
+    "成功教育.md",
+    "05 - 圣经 & 神学/长大以后.md",
+    "03 - “如何看待”系列/重钱.md",
+    "03 - “如何看待”系列/重男轻女.md",
+    "04 - “好好活着”系列/重开人生.md",
+    "04 - “好好活着”系列/酿酒.md",
+    "03 - “如何看待”系列/道理都懂.md"
   ]
 }

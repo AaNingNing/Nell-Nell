@@ -4,10 +4,12 @@
   "switcher",
   "graph",
   "backlink",
+  "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
   "editor-status",
+  "starred",
   "markdown-importer",
   "word-count",
   "file-recovery"

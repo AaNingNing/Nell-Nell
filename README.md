@@ -48,7 +48,7 @@ https://zhuanlan.zhihu.com/p/380200295
 
 #### Label format
 
->Author: #NellNell 
->Last update: *20/08/2022* 
->Links: 
->Tags: 
+> Author: #NellNell 
+> Last update: *24/08/2022* 
+> Links: 
+> Tags: 
