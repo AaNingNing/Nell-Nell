@@ -2,8 +2,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 ## 1. 旧约中的美德
 

@@ -2,8 +2,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 Marilynne Robinson的《Home》（中文最新翻译为《家园》）是《基列家书》的续篇，与2015年出版的《莱拉》一起构建了Robinson的家园三部曲。
 

@@ -2,8 +2,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 读旧约的时候应该感受到一种张力，那是在**事无巨细的规条制度后面的律法主义与历史叙事（storytelling）中体现出的伦理实践之间的张力**。
 

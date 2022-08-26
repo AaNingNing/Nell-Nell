@@ -2,8 +2,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags:    
+> Link:
+> Tag:    
 
 2019年12月17日，是教宗方济各83岁的生日。在这一天，他宣布废除针对性侵罪行的“宗座保密法规”（pontifical secret），教会不能再以保密法规为借口掩盖神职人员的罪行。就在几周前，这部网飞制作的新片《The Two Popes》在院线上映。
 

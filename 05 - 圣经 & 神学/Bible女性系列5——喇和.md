@@ -2,8 +2,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 喇和的故事是以色列进迦南的开篇。
 

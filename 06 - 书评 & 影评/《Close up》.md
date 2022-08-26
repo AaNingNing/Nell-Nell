@@ -3,8 +3,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 我推荐一个跟《十二怒汉》一样是庭审片，但我更为偏爱的一部，是伊朗导演阿巴斯的《Close Up》。以下是对两片的比较。
 

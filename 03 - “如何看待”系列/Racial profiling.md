@@ -3,8 +3,8 @@
 
 > Author: #NellNell 
 > Last update: *28/08/2021* 
-> Links:
-> Tags:  
+> Link:
+> Tag:  
 
 2016年初奥巴马政府宣布成立癌症研究的「登月计划」（Moonshot Program），目的为了缩短癌症研究的周期，核心策略是**跨国界的基础科学研究**：
 

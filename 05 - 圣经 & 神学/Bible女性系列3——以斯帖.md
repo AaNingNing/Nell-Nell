@@ -2,8 +2,8 @@
 
 > Author: #NellNell 
 > Last update: *21/08/2021* 
-> Links:
-> Tags: 
+> Link:
+> Tag: 
 
 《以斯帖记》是一本争议很大的书卷。其中最大的争议，就是**上帝的缺席**。
 
