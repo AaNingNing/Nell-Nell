@@ -1,10 +1,10 @@
 # Personal Statement
 [如何看待焦越清华考研笔试第一复试被刷后称被「性别歧视」？](https://www.zhihu.com/question/316439253/answer/626282558)
 
-> Author: #NellNell 
-> Last update: *28/08/2021* 
+> Author: #NellNell
+> Last update: *28/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 【增补在文末】
 

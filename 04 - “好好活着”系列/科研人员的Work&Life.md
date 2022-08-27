@@ -1,10 +1,10 @@
 # 科研人员的Work&Life
 [为什么有些科研人员觉得「996 还要 +0.5」？](https://www.zhihu.com/question/319997919/answer/650373977)
 
-> Author: #NellNell 
-> Last update: *21/08/2021* 
+> Author: #NellNell
+> Last update: *21/08/2021*
 > Link:
-> Tag:   
+> Tag:
 
 谢邀。4/14更新。
 

@@ -1,9 +1,9 @@
 # 荐书：《家园》Part. 1
 
-> Author: #NellNell 
-> Last update: *21/08/2021* 
+> Author: #NellNell
+> Last update: *21/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 Marilynne Robinson的《Home》（中文最新翻译为《家园》）是《基列家书》的续篇，与2015年出版的《莱拉》一起构建了Robinson的家园三部曲。
 
@@ -126,4 +126,3 @@ Boughton老牧师所渴望的和解，其实只是求一个解释，一个属于
 马里琳·鲁滨逊作品基列三部曲:家园
 
 ¥ 47.00起
-

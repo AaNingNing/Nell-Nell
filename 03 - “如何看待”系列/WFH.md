@@ -1,10 +1,10 @@
 # WHF
 [如何评价 Twitter 将允许员工永久在家工作？在家办公会成为互联网行业的新常态吗？](https://www.zhihu.com/question/394457302/answer/1223029500)
 
-> Author: #NellNell 
-> Last update: *21/08/2021* 
+> Author: #NellNell
+> Last update: *21/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 这问题下的北美码工都很乐观啊。搬到免税州买大房子什么的。
 
@@ -17,8 +17,3 @@
 如果你在FB、Twitter、Google这些大IT公司，也不是什么太值得高兴的事。先保证自己的实力吧，现在的竞争对手已经进一步超越了地域限制遍布全世界了，你得保证自己不输给人家。
 
 所以当务之急不是买大房子，而是多刷题。
-
-  
-  
-
-

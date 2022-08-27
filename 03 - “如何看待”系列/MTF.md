@@ -1,12 +1,12 @@
 # MTF
 [你怎样看待mtf（生理男孩子不认同自己的性别）？](https://www.zhihu.com/question/358674467/answer/932097305)
 
-> Author: #NellNell 
-> Last update: *19/08/2021* 
+> Author: #NellNell
+> Last update: *19/08/2021*
 > Link:
 > Tag:
 
-  如果我是一个MTF的妈妈，我大概会给ta买一副胸罩，再用毛线和棉花为ta做一对乳房。等ta长到合适的年纪，就陪ta一起去找专科医生咨询手术。
+如果我是一个MTF的妈妈，我大概会给ta买一副胸罩，再用毛线和棉花为ta做一对乳房。等ta长到合适的年纪，就陪ta一起去找专科医生咨询手术。
 
 ---
 
