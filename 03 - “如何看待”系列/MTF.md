@@ -1,8 +1,8 @@
 # MTF
 [你怎样看待mtf（生理男孩子不认同自己的性别）？](https://www.zhihu.com/question/358674467/answer/932097305)
 
-> Author: #NellNell 
-> Last update: *19/08/2021* 
+> Author: #NellNell
+> Last update: *19/08/2021*
 > Link:
 > Tag:
 

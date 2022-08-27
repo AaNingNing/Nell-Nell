@@ -1,9 +1,9 @@
 # 荐书：《家园》Part. 2
 
-> Author: #NellNell 
-> Last update: *21/08/2021* 
+> Author: #NellNell
+> Last update: *21/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 3。Jack与Glory
 
@@ -86,7 +86,5 @@ Della带着男孩离开了。但是个Glory想，有一天，这个叫Robert的�
 [
 
 ![](https://pic1.zhimg.com/v2-2b58a790bbc75c89d7f6f42a3ffffbf1_720w.jpg?source=b555e01d)
-
-
 
 ](https://union-click.jd.com/jdc?e=jdext-1184298211941044224-0&p=AyIGZRtYFAcXBFIZWR0yEgRRElkWChA3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSBFESWRYKEBgMXgdIMnZCB1MJYEtBZ1RhH2lDa2AgXB1pQUQLWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWAVEbWRwFGgBdHVMlAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgdcHlgdCxEHVRNeFQMXAlYYXgkDIgdUGlgUCxcPVx41FGwSD1EZXBIEFgVVK1slAiJYEUYGJQATBlcZ)

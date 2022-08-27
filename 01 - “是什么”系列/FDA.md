@@ -1,10 +1,10 @@
 # FDA
 [有哪些你觉得是常识，但大部分人好像并不知道的事？](https://www.zhihu.com/question/422686198/answer/1683485887)
 
-> Author: #NellNell 
-> Last update: *20/08/2021* 
+> Author: #NellNell
+> Last update: *20/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 FDA不认证护肤品和化妆品。
 
@@ -16,8 +16,6 @@ FDA不认证护肤品和化妆品。
 
 ![](https://pic1.zhimg.com/80/v2-e49d3eb2d5540a181171a801cb1a740b_720w.jpg?source=c8b7c179)
 
-  
-
 至于美容仪，都不在FDA负责管理的产品范围内。
 
 以下是所有美容相关的类别。仪器的部分只包括医疗仪器。
@@ -25,8 +23,6 @@ FDA不认证护肤品和化妆品。
 ![](https://pic1.zhimg.com/50/v2-53c19a1c2a73456a9cbb8e56388d23da_720w.jpg?source=c8b7c179)
 
 ![](https://pic1.zhimg.com/80/v2-53c19a1c2a73456a9cbb8e56388d23da_720w.jpg?source=c8b7c179)
-
-  
 
 另外，想了解FDA一些内幕，推荐一部网飞纪录片《The Bleeding Edge》。
 

@@ -1,10 +1,10 @@
 # First Aid
 [如何看待山东临沂一初三学生体育课跑步时猝死？该如何避免此类事件发生？](https://www.zhihu.com/question/420423650/answer/1465502780)
 
-> Author: #NellNell 
-> Last update: *21/08/2021* 
+> Author: #NellNell
+> Last update: *21/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 学校可以做的不是避免意外，意外可以避免就不叫意外了。每个中小学校都应该做的其实是对老师进行**急救措施的培训**。
 

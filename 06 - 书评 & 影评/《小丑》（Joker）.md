@@ -1,10 +1,10 @@
 # 《小丑》
 [如何评价 2019 电影《小丑》（Joker）？](https://www.zhihu.com/question/318913382/answer/858881972)
 
-> Author: #NellNell 
-> Last update: *25/08/2021* 
+> Author: #NellNell
+> Last update: *25/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 我不看超英，没有美漫情结，不在乎漫改胜利（话说日漫早就在漫改上称帝了），更不是技术帝，就单说电影本身。这是一部让人失望的作品。
 

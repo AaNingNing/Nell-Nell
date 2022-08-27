@@ -1,9 +1,9 @@
 # Bible女性系列4——亚比该
 
-> Author: #NellNell 
-> Last update: *21/08/2021* 
+> Author: #NellNell
+> Last update: *21/08/2021*
 > Link:
-> Tag: 
+> Tag:
 
 ## 1. 旧约中的美德
 
