@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - 致读者/致读者.md",
+            "file": "唯一态度.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - 致读者/致读者.md",
+                "file": "唯一态度.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
+    "对待孤立.md",
+    "爱的能力.md",
+    "被骂.md",
+    "闲操心.md",
+    "唯一态度.md",
     "README.md",
-    "00 - 致读者/致读者.md",
-    "00 - 致读者/知乎 - 潜力.md",
-    "00 - 致读者/知乎 - 十年.md",
-    "00 - 致读者/知乎 - 写作.md",
-    "01 - “是什么”系列/中外基督徒.md",
-    "01 - “是什么”系列/Be vulnerable.md",
-    "成功教育.md",
-    "救助原则.md",
-    "母婴室平替.md"
+    "09 - 简答/深邃与幼稚.md",
+    "08 - 推荐/母婴室平替.md",
+    "03 - “如何看待”系列/救助原则.md",
+    "03 - “如何看待”系列/成功教育.md"
   ]
 }
