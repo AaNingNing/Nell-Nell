@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "唯一态度.md",
+            "file": "《隐入尘烟》.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "唯一态度.md",
+                "file": "《隐入尘烟》.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +120,17 @@
     "width": 218.3333282470703,
     "collapsed": true
   },
-  "active": "78adbaa0ce0f4f74",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "对待孤立.md",
-    "爱的能力.md",
-    "被骂.md",
-    "闲操心.md",
-    "唯一态度.md",
+    "得到.md",
+    "扶不扶.md",
+    "《隐入尘烟》.md",
     "README.md",
-    "09 - 简答/深邃与幼稚.md",
-    "08 - 推荐/母婴室平替.md",
-    "03 - “如何看待”系列/救助原则.md",
-    "03 - “如何看待”系列/成功教育.md"
+    "02 - “怎么办”系列/爱的能力.md",
+    "02 - “怎么办”系列/对待孤立.md",
+    "09 - 简答/被骂.md",
+    "09 - 简答/闲操心.md",
+    "09 - 简答/唯一态度.md",
+    "08 - 推荐/仰望星空.md"
   ]
 }
