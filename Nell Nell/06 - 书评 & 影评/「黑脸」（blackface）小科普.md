@@ -82,4 +82,4 @@ Jim Crow种族隔离法的名字就是来源于这个角色。以哼着“Jump J
 
 ---
 
-文中图片来源：[http://black-face.com](https://link.zhihu.com/?target=http%3A//black-face.com/)
+[文中图片来源](https://link.zhihu.com/?target=http%3A//black-face.com/)

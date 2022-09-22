@@ -121,4 +121,4 @@ G其实已经走在迷失的边缘了。他虽然还没有像那位对冲基金�
 
 ## 参考
 
-1.  [^](#ref_1_0)Pete Docter, Pixar's Star Director, Talks about His Christian Faith [https://www.christianitytoday.com/ct/2009/mayweb-only/pete-docter-pixars-director-talks-about-christian-faith.html](https://www.christianitytoday.com/ct/2009/mayweb-only/pete-docter-pixars-director-talks-about-christian-faith.html)
+1.  [^](#ref_1_0)[Pete Docter, Pixar's Star Director, Talks about His Christian Faith](https://www.christianitytoday.com/ct/2009/mayweb-only/pete-docter-pixars-director-talks-about-christian-faith.html)
