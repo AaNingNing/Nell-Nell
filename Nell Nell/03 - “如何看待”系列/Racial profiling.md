@@ -49,8 +49,8 @@
 
 嗯，照这意思，大概是要为我们贡献出新一代的钱学森啊。
 
-[学业与职业8459 浏览 · 381 关注收藏夹![](https://pic2.zhimg.com/80/v2-b2918ef3f9c19572ba524ac59316a917_1440w.png)](https://zhihu.com/collection/430675974)
+[学业与职业](https://zhihu.com/collection/430675974)
 
 ## 参考
 
-1.  [^](#ref_1_0)[https://www.bloomberg.com/news/features/2019-06-13/the-u-s-is-purging-chinese-americans-from-top-cancer-research](https://www.bloomberg.com/news/features/2019-06-13/the-u-s-is-purging-chinese-americans-from-top-cancer-research)
+1.  [^](#ref_1_0)[The U.S. Is Purging Chinese Cancer Researchers From Top Institutions](https://www.bloomberg.com/news/features/2019-06-13/the-u-s-is-purging-chinese-americans-from-top-cancer-research)

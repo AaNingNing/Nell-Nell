@@ -71,6 +71,6 @@ Brené Brown在TED做过两次演讲，第一次讲“示弱的力量”，第�
 
 演讲链接如下：
 
-[Transcript of "The power of vulnerability"​www.ted.com/talks/brene_brown_on_vulnerability/transcript#t-1195273![](https://pic2.zhimg.com/v2-6be1f8118c17504669ce17a1225f0879_180x120.jpg)](https://link.zhihu.com/?target=https%3A//www.ted.com/talks/brene_brown_on_vulnerability/transcript%23t-1195273)
+[Transcript of "The power of vulnerability"](https://link.zhihu.com/?target=https%3A//www.ted.com/talks/brene_brown_on_vulnerability/transcript%23t-1195273)
 
-[Listening to shame​www.ted.com/talks/brene_brown_listening_to_shame?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare![](https://pic1.zhimg.com/v2-177e3806026e17e457d0ada0d16a9520_180x120.jpg)](https://link.zhihu.com/?target=https%3A//www.ted.com/talks/brene_brown_listening_to_shame%3Futm_campaign%3Dtedspread%26utm_medium%3Dreferral%26utm_source%3Dtedcomshare)
+[Listening to shame​](https://link.zhihu.com/?target=https%3A//www.ted.com/talks/brene_brown_listening_to_shame%3Futm_campaign%3Dtedspread%26utm_medium%3Dreferral%26utm_source%3Dtedcomshare)
