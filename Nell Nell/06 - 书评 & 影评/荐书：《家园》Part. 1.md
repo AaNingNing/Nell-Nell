@@ -118,9 +118,7 @@ Boughton老牧师所渴望的和解，其实只是求一个解释，一个属于
 
 他们不需要圣徒的拯救和理解，因为“圣徒”理解不了，更无从拯救。“圣徒”真正应该做的，是允许他们以另一种你不一定认可的可能性存在。做为一个牧师，相信上帝自有他的安排，他大概可以更加坦然的把儿子的事交托仰望在上帝的手里吧。
 
-[nell nell：荐书：《回家》Marilynne Robinson-25 赞同 · 1 评论文章![](https://pic2.zhimg.com/v2-b0bd5f1d82dcac39b2ed556d5f5101f1_180x120.jpg)](https://zhuanlan.zhihu.com/p/33010444)
-
-[
+[nell nell：荐书：《回家》Marilynne Robinson](https://zhuanlan.zhihu.com/p/33010444)
 
 ![](https://pic1.zhimg.com/v2-2b58a790bbc75c89d7f6f42a3ffffbf1_720w.jpg?source=b555e01d)
 

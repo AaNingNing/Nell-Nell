@@ -63,4 +63,4 @@
 
 P.S. 这次评论就不开了，省得一众漫威迷来杠。
 
-[电影和动漫2676 浏览 · 81 关注收藏夹![](https://pic2.zhimg.com/80/v2-b2918ef3f9c19572ba524ac59316a917_1440w.png)](https://zhihu.com/collection/313818721)
+[电影和动漫](https://zhihu.com/collection/313818721)

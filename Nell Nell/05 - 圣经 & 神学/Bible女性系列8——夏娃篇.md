@@ -281,7 +281,7 @@
 
 另外，经常被翻译成”帮助“的“ezer”极有可能是错误的翻译。
 
-接下来这一段会比较学术，David Freedman的论文（[https://www.baslibrary.org/biblical-archaeology-review/9/1/6](https://link.zhihu.com/?target=https%3A//www.baslibrary.org/biblical-archaeology-review/9/1/6)）里有非常详尽的论述，我尽量讲的简洁，请大家还是耐心阅读。
+接下来这一段会比较学术，David Freedman的论文（[Woman, a Power Equal to Man](https://link.zhihu.com/?target=https%3A//www.baslibrary.org/biblical-archaeology-review/9/1/6)）里有非常详尽的论述，我尽量讲的简洁，请大家还是耐心阅读。
 
 首先，现在翻译为“帮助”的这个希伯来词是עָפָר֙。
 

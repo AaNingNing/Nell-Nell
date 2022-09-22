@@ -59,5 +59,5 @@ IVG就完全不需要了。**这项技术可以用胚胎干细胞或诱导多能
 
 ## 参考
 
-1.  [^](#ref_1_0)[https://www.nature.com/articles/nature20104](https://www.nature.com/articles/nature20104)
-2.  [^](#ref_2_0)[https://www.sciencedirect.com/science/article/pii/S1934590916000187](https://www.sciencedirect.com/science/article/pii/S1934590916000187)
+1.  [^](#ref_1_0)[Reconstitution in vitro of the entire cycle of the mouse female germ line](https://www.nature.com/articles/nature20104)
+2.  [^](#ref_2_0)[Complete Meiosis from Embryonic Stem Cell-Derived Germ Cells In Vitro](https://www.sciencedirect.com/science/article/pii/S1934590916000187)
