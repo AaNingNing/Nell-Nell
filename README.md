@@ -9,7 +9,7 @@
 - 对更多内容感兴趣同学情移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
 - 或关注Nell Nell的微信公众号**影子大地shadowlands**
 - 影视推荐合集： [有哪些优秀（好看）的电影电视剧推荐？](https://www.zhihu.com/question/343096396/answer/2625826293)
-
+- 笔记内文章[音频版]下载： https://github.com/idealclover/Nell-Nell-Audio
 
 感谢作者的授权。
 
@@ -49,7 +49,7 @@ https://zhuanlan.zhihu.com/p/380200295
 #### Label format
 
 > Author: #NellNell
-> Last update: *16/09/2022*
+> Last update: *24/09/2022*
 > Link:
 > Tag:
 > 沙海拾金:

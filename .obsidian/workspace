@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fb61fedb4f39529b",
+        "id": "42bcbb2bec4a6b4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "【本周更新】/脱口秀5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "66d1cc8ed2ad1268",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -57,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "【本周更新】/脱口秀5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.3333282470703
+    "width": 218.3333282470703,
+    "collapsed": true
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "42bcbb2bec4a6b4a",
   "lastOpenFiles": [
-    "【本周更新】/《小美人鱼》.md",
-    "【本周更新】/多情与专一.md",
-    "【本周更新】/模仿.md",
-    "【本周更新】/灵魂伴侣.md",
+    "【本周更新】/尼采.md",
+    "沙海拾金/进步与落后.md",
+    "沙海拾金/_已归档/进步与落后.JPEG",
+    "沙海拾金/_已归档/政治正确与约定俗成.PNG",
+    "沙海拾金/政治正确与约定俗成.md",
     "README.md",
-    "Nell Nell/02 - “怎么办”系列/扶不扶.md",
-    "Nell Nell/01 - “是什么”系列/得到.md",
-    "Nell Nell/09 - 简答/信源.md",
-    "Nell Nell/03 - “如何看待”系列/脱口秀大会S307.md",
-    "Nell Nell/02 - “怎么办”系列/胶片摄影.md"
+    "【本周更新】/脱口秀5.md",
+    "沙海拾金/凡事盼望.md",
+    "沙海拾金/为爱放弃xxx.md",
+    "沙海拾金/平等权利.md"
   ]
 }
