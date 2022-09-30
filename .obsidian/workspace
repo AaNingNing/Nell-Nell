@@ -9,18 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "【本周更新】/脱口秀5.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "66d1cc8ed2ad1268",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "README.md",
             "mode": "source",
             "source": false
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/脱口秀5.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,14 +110,14 @@
   "active": "42bcbb2bec4a6b4a",
   "lastOpenFiles": [
     "【本周更新】/尼采.md",
-    "沙海拾金/进步与落后.md",
-    "沙海拾金/_已归档/进步与落后.JPEG",
-    "沙海拾金/_已归档/政治正确与约定俗成.PNG",
-    "沙海拾金/政治正确与约定俗成.md",
+    "【本周更新】/配.md",
     "README.md",
-    "【本周更新】/脱口秀5.md",
-    "沙海拾金/凡事盼望.md",
-    "沙海拾金/为爱放弃xxx.md",
-    "沙海拾金/平等权利.md"
+    "沙海拾金/没用.md",
+    "沙海拾金/正邪之分.md",
+    "沙海拾金/政治正确与约定俗成.md",
+    "沙海拾金/恶意.md",
+    "沙海拾金/忘我.md",
+    "沙海拾金/平等权利.md",
+    "沙海拾金/帮助者与被助者.md"
   ]
 }
