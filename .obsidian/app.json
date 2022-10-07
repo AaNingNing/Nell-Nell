@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "fileSortOrder": "alphabetical",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
