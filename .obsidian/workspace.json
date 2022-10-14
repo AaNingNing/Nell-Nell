@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42bcbb2bec4a6b4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "既然有了更高级的理性思维，为什么仍然保留感性思维？.md",
-            "mode": "source",
-            "source": false
+        "id": "c1180d80b9f22e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42bcbb2bec4a6b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
             }
           },
           {
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[1](#ref_1)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "既然有了更高级的理性思维，为什么仍然保留感性思维？.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +116,20 @@
     "width": 218.3333282470703,
     "collapsed": true
   },
-  "active": "42bcbb2bec4a6b4a",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "踊跃发言.md",
-    "爱上一个不可能的人该如何放下？.md",
-    "既然有了更高级的理性思维，为什么仍然保留感性思维？.md",
-    "README.md",
-    "Nell Nell/02 - “怎么办”系列/选择.md",
-    "Nell Nell/01 - “是什么”系列/爱与仁爱.md",
-    "Nell Nell/01 - “是什么”系列/控制欲.md",
-    "Nell Nell/01 - “是什么”系列/成熟标志.md",
-    "Nell Nell/03 - “如何看待”系列/底线.md",
-    "Nell Nell/01 - “是什么”系列/Thou.md"
+    "Nell Nell/09 - 简答/被骂.md",
+    "Nell Nell/09 - 简答/权力和权利.md",
+    "Nell Nell/05 - 圣经 & 神学/读《圣经》.md",
+    "Nell Nell/03 - “如何看待”系列/重男轻女.md",
+    "Nell Nell/02 - “怎么办”系列/辟谣.md",
+    "Nell Nell/01 - “是什么”系列/自信.md",
+    "Nell Nell/01 - “是什么”系列/贡献.md",
+    "Nell Nell/04 - “好好活着”系列/科研人员的Work&Life.md",
+    "Nell Nell/03 - “如何看待”系列/赛博利维坦.md",
+    "Nell Nell/02 - “怎么办”系列/课堂秩序管理.md"
   ]
 }
