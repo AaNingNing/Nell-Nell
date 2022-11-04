@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e4903d2e9b3c9aa7",
+        "id": "48ebf7607e03ab31",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0bf206b25a6fc4",
+            "id": "a57248dfe17b04b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/讨厌.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "881bff4a718df414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/目的与手段.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d677f7a8a553fade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/价值评估.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "很一个严重的词啊。",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/价值评估.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +110,17 @@
     "width": 218.3333282470703,
     "collapsed": true
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "a57248dfe17b04b3",
   "lastOpenFiles": [
-    "【本周更新】/讨厌.md",
-    "【本周更新】/目的与手段.md",
-    "【本周更新】/价值评估.md",
+    "【本周更新】/神话禁忌.md",
     "README.md",
-    "Nell Nell/02 - “怎么办”系列/背叛.md",
-    "Nell Nell/01 - “是什么”系列/刚正.md",
-    "Nell Nell/03 - “如何看待”系列/课堂礼仪.md",
-    "Nell Nell/01 - “是什么”系列/理性与感性.md",
-    "Nell Nell/02 - “怎么办”系列/爱而不得.md",
-    "Nell Nell/03 - “如何看待”系列/踊跃发言.md"
+    "沙海拾金/量体裁衣.md",
+    "沙海拾金/注目事实.md",
+    "沙海拾金/忘我.md",
+    "沙海拾金/凡事盼望.md",
+    "沙海拾金/举例.md",
+    "沙海拾金/平等权利.md",
+    "沙海拾金/没用.md",
+    "沙海拾金/受害者论.md"
   ]
 }
