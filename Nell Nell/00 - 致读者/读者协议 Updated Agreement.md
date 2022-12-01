@@ -1,11 +1,18 @@
-# 致读者
+# 读者协议 Updated Agreement
 [你有哪些话想对知乎上关注你的人说？](https://www.zhihu.com/question/264373660/answer/1812786628)
 
 > Author: #NellNell
-> Last update: *07/08/2022*
+> Last update: *01/12/2022*
 > Link:
 > Tag:
 > 沙海拾金:
+
+
+请在关注、留言、互动前阅读此协议。
+
+这个账号是我个人在知乎上的“家”，我非常珍惜它，也希望由它聚集在一起的团体是一个和平、开放、包容、有爱的地方。为此，我事先声明，
+
+_——你阅读我的回答，就是我的客人。我愿意以礼待客，同时也请你遵守“家规”。客人有遵守主人家规的义务，主人有驱逐践踏家规者的权力。驱逐的方式有且不限于删评、控评、拉黑、取关，这并非对你个人有什么意见，只是你所表现出来的心理、行为、倾向暂时不适合来这里做客罢了（类似音乐会有年龄限制的门槛），望周知。_
 
 ## 1. 立场问题：
 
@@ -19,15 +26,13 @@
 
 我希望你对我的信任，是建立在“这个人不会随便乱讲话”的观察上，而不是“这个人每次讲的都正确”或者“都符合我的期待”。
 
-我的立场非常复杂，而且会有改变。因为世界就是复杂和变化的。这不代表我前后不一致，这只说明我在不断的学习、成长。
+其实可以把我看成一个天气播报员，把回答看作是气象观测，不要看做叙事。
 
-在我看来，任何把这种复杂性强行黑白二分、贴标签的行为都是一种傲慢的论断。是以上帝的视角、使用上帝才能使用的权柄对他人做出以偏概全的判断。
+播报有雪不代表我喜欢雪，播报有雨也不代表我喜欢雨。我不写雨雪的小作文，你也不应该因为天气不好迁怒播报员。
 
-当有限的人类用“贴标签”的方式去判断他人时，往往不是为着诚实和仁慈的缘故，而是为了定罪和霸凌，为了站在道德高点上进行绑架，为了猎巫和钉十字架。
+那些回答跟立场和喜好没有什么不可分割的关系，不要问我对当事人怎么看、干嘛不支持那男的、干嘛不谴责那女的。我不关心！一点也不关心。你也不应该关心我的喜好，播报员喜欢什么讨厌什么跟你没关系。
 
-因此，不要试图用xx人、xx主义、xx权、xx徒、左x右x对我进行分类。
-
-我的观点远比这些标签来得复杂曲折。
+回答就是**观测**，不是**叙事**。
 
 ---
 
@@ -37,7 +42,7 @@
 
 虽然被评为心理学优秀答主，不要误会，我不是心理学出身。事实上，我对心理学是审慎的批判态度。我也并不特别关注心理学问题，也不接受心理咨询邀请。
 
-社科包括但并不限于社会、科学、两性、情感、亲子、职场、学习等方面。信仰主要指基督教信仰，我不是原教旨主义，但也不要给我贴什么自由主义的标签，虽然我认为任何信仰最终都应该走向自由。
+社科包括但并不限于社会、政治、科学、两性、情感、亲子、职场、学习等方面。信仰主要指基督教信仰，我不是原教旨主义，但也不要给我贴什么自由主义的标签，虽然我认为任何信仰最终都应该走向自由。
 
 对于我写的内容，我讲的就是我信的。
 
@@ -48,14 +53,6 @@
 欢迎反驳和质疑，请在事实和逻辑上反驳，不要在立场和情绪上，更不要诛心，不要论断。
 
 我不会为了追求认同、讨好流量说违心话。这点请你放心。
-
-我也有我的短板，比如在性别、种族问题上，会比较没有耐心，写出来的东西有可能是无爱的。如果是善意的提醒，我也会感激。
-
-另外，我会特别关注弱势群体。
-
-弱势群体指的是在当下主流话语和主流世界观和价值观框架下，因为性别、年龄、身体特征、种族民族、阶层身份等原因被排斥和歧视的群体。
-
-包括并不限于：LGBTQ，父权话语下的女性，少数族裔，残障人士，儿童，学生，以及其他边缘人群。
 
 ---
 
@@ -101,13 +98,15 @@
 
 ## 5. 关于评论、留言、删评和拉黑：
 
-最近知乎机器删评还是挺严重的。分辨是机删还是我删的，删评伴随拉黑一般是我，删评没有被拉黑一般是机器。
+最近知乎机器删评还是挺严重的。**分辨是机删还是我删的，删评伴随拉黑一般是我，删评没有被拉黑一般是机器**。
 
 原则只有一个，就是态度。
 
 **——就事论事，不要诛心，不要定罪，不要骂人。**
 
 2022/7/7再加一条，上来就指责你的回答怎样怎样却不提出具体问题的。这在我看来是发泄情绪的表现。
+
+2022/11/14再加一条，在某些时候，过于不成熟、补弱不补强、偏激、情绪化的留言也会触发删评和拉黑，不过这条红线对很多知乎用户来说比较容易触碰，所以我使用起来也会小心。
 
 顺便说一下，如果我经常见到你，有过良好互动的，就不会轻易拉黑，即便违背了以上原则。因为人不是机器，永远不犯规太强人所难了。我了解你一直以来的状况，不会因为个别情况就绝交。
 
@@ -147,9 +146,15 @@
 
 [Jeremiah：#个人成长学习手册——汇总整理](https://zhuanlan.zhihu.com/p/496487354)
 
+[idealclover：Caritas APP 2.0 版本发布](https://zhuanlan.zhihu.com/p/556201282)
+
+[终于把喜马拉雅的AI文稿功能做上线了，声…](http://www.zhihu.com/pin/1513139285759311872)
+
 ---
 
 ## 9. 一些帮助你阅读的分类（截止到7/7）：
+
+  
 
 ### “是什么”系列：
 
@@ -203,7 +208,7 @@
 
 “程序正义”是什么？ [https://www.zhihu.com/question/26077409/answer/1847966055](https://www.zhihu.com/question/26077409/answer/1847966055)
 
-“[独立女性](https://www.zhihu.com/search?q=%E7%8B%AC%E7%AB%8B%E5%A5%B3%E6%80%A7&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”是什么？[https://www.zhihu.com/question/23223076/answer/2275799698](https://www.zhihu.com/question/23223076/answer/2275799698)
+“独立女性”是什么？[https://www.zhihu.com/question/23223076/answer/2275799698](https://www.zhihu.com/question/23223076/answer/2275799698)
 
 "神爱世人"是什么？[https://www.zhihu.com/question/372606574/answer/2102224652](https://www.zhihu.com/question/372606574/answer/2102224652)
 
@@ -213,7 +218,7 @@
 
 “理性的局限”是什么？[https://www.zhihu.com/question/266768424/answer/2040127175](https://www.zhihu.com/question/266768424/answer/2040127175)
 
-“[假性亲密关系](https://www.zhihu.com/search?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”是什么？ [https://www.zhihu.com/question/34599589/answer/2219342257](https://www.zhihu.com/question/34599589/answer/2219342257)
+“假性亲密关系”是什么？ [https://www.zhihu.com/question/34599589/answer/2219342257](https://www.zhihu.com/question/34599589/answer/2219342257)
 
 “男女间的纯洁”是什么？ [https://www.zhihu.com/question/19731263/answer/2086985240](https://www.zhihu.com/question/19731263/answer/2086985240)
 
@@ -247,9 +252,11 @@
 
 人是不是必须得有信仰？如果是，什么样的信仰才是最好的选择？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/511352074/answer/2403004747](https://www.zhihu.com/question/511352074/answer/2403004747)
 
-爱的对象是否有选择以及爱是否有深浅? - [nell nell](https://www.zhihu.com/search?q=nell+nell&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)的回答 - 知乎 [https://www.zhihu.com/question/524163583/answer/2407823439](https://www.zhihu.com/question/524163583/answer/2407823439)
+爱的对象是否有选择以及爱是否有深浅? - nell nell的回答 - 知乎 [https://www.zhihu.com/question/524163583/answer/2407823439](https://www.zhihu.com/question/524163583/answer/2407823439)
 
 什么是真正的释怀? - nell nell的回答 - 知乎 [https://www.zhihu.com/question/30256563/answer/2432886896](https://www.zhihu.com/question/30256563/answer/2432886896)
+
+  
 
 ### “怎么办”系列：
 
@@ -427,7 +434,7 @@
 
 面试怎么回答“你最大的缺点是什么”？ [https://www.zhihu.com/question/20887129/answer/1742511101](https://www.zhihu.com/question/20887129/answer/1742511101)
 
-妈妈每天对我[语言暴力](https://www.zhihu.com/search?q=%E8%AF%AD%E8%A8%80%E6%9A%B4%E5%8A%9B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)怎么办？ [https://www.zhihu.com/question/445295542/answer/1741160034](https://www.zhihu.com/question/445295542/answer/1741160034)
+妈妈每天对我语言暴力怎么办？ [https://www.zhihu.com/question/445295542/answer/1741160034](https://www.zhihu.com/question/445295542/answer/1741160034)
 
 经常对爱我的人宣泄负面情绪怎么办？ [https://www.zhihu.com/question/309870033/answer/1665283954](https://www.zhihu.com/question/309870033/answer/1665283954)
 
@@ -440,6 +447,8 @@
 怎样避免活在信息茧房之中？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/493477576/answer/2397446337](https://www.zhihu.com/question/493477576/answer/2397446337)
 
 如何优雅且有效地传达“你冒犯到我了”？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/31087234/answer/2409413521](https://www.zhihu.com/question/31087234/answer/2409413521)
+
+  
 
 ### “如何看待”系列：
 
@@ -513,7 +522,7 @@
 
 如何看待“宏大叙事”？ [https://www.zhihu.com/question/489766847/answer/2222602216](https://www.zhihu.com/question/489766847/answer/2222602216)
 
-如何看待“[人格分类](https://www.zhihu.com/search?q=%E4%BA%BA%E6%A0%BC%E5%88%86%E7%B1%BB&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”？[https://www.zhihu.com/question/38711687/answer/959270361](https://www.zhihu.com/question/38711687/answer/959270361)
+如何看待“人格分类”？[https://www.zhihu.com/question/38711687/answer/959270361](https://www.zhihu.com/question/38711687/answer/959270361)
 
 如何看待“文化输出”？ [https://www.zhihu.com/question/387797541/answer/1221714710](https://www.zhihu.com/question/387797541/answer/1221714710)
 
@@ -535,9 +544,9 @@
 
 如何看待“报复社会”？ [https://www.zhihu.com/question/406493288/answer/1335030217](https://www.zhihu.com/question/406493288/answer/1335030217)
 
-如何看待“[君子远庖厨](https://www.zhihu.com/search?q=%E5%90%9B%E5%AD%90%E8%BF%9C%E5%BA%96%E5%8E%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”？ [https://www.zhihu.com/question/22341969/answer/1881268325](https://www.zhihu.com/question/22341969/answer/1881268325)
+如何看待“君子远庖厨”？ [https://www.zhihu.com/question/22341969/answer/1881268325](https://www.zhihu.com/question/22341969/answer/1881268325)
 
-如何看待“[分子人类学](https://www.zhihu.com/search?q=%E5%88%86%E5%AD%90%E4%BA%BA%E7%B1%BB%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”？ [https://www.zhihu.com/question/466310147/answer/2003133130](https://www.zhihu.com/question/466310147/answer/2003133130)
+如何看待“分子人类学”？ [https://www.zhihu.com/question/466310147/answer/2003133130](https://www.zhihu.com/question/466310147/answer/2003133130)
 
 如何看待“飞天意面神教”？ [https://www.zhihu.com/question/48834521/answer/798066266](https://www.zhihu.com/question/48834521/answer/798066266)
 
@@ -553,9 +562,9 @@
 
 如何看待“中等收入陷阱"? [https://www.zhihu.com/question/454674600/answer/1841945808](https://www.zhihu.com/question/454674600/answer/1841945808)
 
-如何看待“西方[话语体系](https://www.zhihu.com/search?q=%E8%AF%9D%E8%AF%AD%E4%BD%93%E7%B3%BB&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”？ [https://www.zhihu.com/question/268743534/answer/1810908010](https://www.zhihu.com/question/268743534/answer/1810908010)
+如何看待“西方话语体系”？ [https://www.zhihu.com/question/268743534/answer/1810908010](https://www.zhihu.com/question/268743534/answer/1810908010)
 
-如何看待“[西方中心论](https://www.zhihu.com/search?q=%E8%A5%BF%E6%96%B9%E4%B8%AD%E5%BF%83%E8%AE%BA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)”？[https://www.zhihu.com/question/30498339/answer/1729164685](https://www.zhihu.com/question/30498339/answer/1729164685)
+如何看待“西方中心论”？[https://www.zhihu.com/question/30498339/answer/1729164685](https://www.zhihu.com/question/30498339/answer/1729164685)
 
 如何看待“泼辣的大妈”？ [https://www.zhihu.com/question/436956581/answer/1656517736](https://www.zhihu.com/question/436956581/answer/1656517736)
 
@@ -567,11 +576,11 @@
 
 如何看待美国反智主义？[https://www.zhihu.com/question/22922167/answer/1444768724](https://www.zhihu.com/question/22922167/answer/1444768724)
 
-如何看待没有[性经历](https://www.zhihu.com/search?q=%E6%80%A7%E7%BB%8F%E5%8E%86&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)的男性? [https://www.zhihu.com/question/459871538/answer/1997196697](https://www.zhihu.com/question/459871538/answer/1997196697)
+如何看待没有性经历的男性? [https://www.zhihu.com/question/459871538/answer/1997196697](https://www.zhihu.com/question/459871538/answer/1997196697)
 
 如何看待莉香坐前一班车走？ [https://www.zhihu.com/question/24694681/answer/1746836216](https://www.zhihu.com/question/24694681/answer/1746836216)
 
-如何看待[玉娇龙](https://www.zhihu.com/search?q=%E7%8E%89%E5%A8%87%E9%BE%99&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)跳崖？ [https://www.zhihu.com/question/30963769/answer/503433751](https://www.zhihu.com/question/30963769/answer/503433751)
+如何看待玉娇龙跳崖？ [https://www.zhihu.com/question/30963769/answer/503433751](https://www.zhihu.com/question/30963769/answer/503433751)
 
 如何看待男生不愿意追女生？ [https://www.zhihu.com/question/297336019/answer/621157605](https://www.zhihu.com/question/297336019/answer/621157605)
 
@@ -585,7 +594,7 @@
 
 如何看待美国芝加哥连环枪击案致 3 死 4 伤？ [https://www.zhihu.com/question/438828611/answer/1672992026](https://www.zhihu.com/question/438828611/answer/1672992026)
 
-如何看待[推特](https://www.zhihu.com/search?q=%E6%8E%A8%E7%89%B9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)永久停用特朗普个人账号？ [https://www.zhihu.com/question/438537142/answer/1671835413](https://www.zhihu.com/question/438537142/answer/1671835413)
+如何看待推特永久停用特朗普个人账号？ [https://www.zhihu.com/question/438537142/answer/1671835413](https://www.zhihu.com/question/438537142/answer/1671835413)
 
 如何看待拜登承认奥斯曼帝国对亚美尼亚人大屠杀是「种族灭绝行为」？ [https://www.zhihu.com/question/456438788/answer/1854873047](https://www.zhihu.com/question/456438788/answer/1854873047)
 
@@ -617,7 +626,7 @@
 
 如何看待肠胃菌群和抑郁症的关系？ [https://www.zhihu.com/question/274300927/answer/596361534](https://www.zhihu.com/question/274300927/answer/596361534)
 
-如何看待「被拐卖妇女起诉离婚，[丰县](https://www.zhihu.com/search?q=%E4%B8%B0%E5%8E%BF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)法院不予支持」一事？具体情况如何？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/516840740/answer/2353036928](https://www.zhihu.com/question/516840740/answer/2353036928)
+如何看待「被拐卖妇女起诉离婚，丰县法院不予支持」一事？具体情况如何？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/516840740/answer/2353036928](https://www.zhihu.com/question/516840740/answer/2353036928)
 
 政协委员建议「允许 30 岁以上未婚女性生育一胎」，如何看待这一建议？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/520189254/answer/2377057033](https://www.zhihu.com/question/520189254/answer/2377057033)
 
@@ -631,6 +640,8 @@
 
 如何看待乌克兰指责俄罗斯军方在基辅屠杀 410 平民，俄方否认称是「挑衅」？真实情况如何？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/525901706/answer/2423388246](https://www.zhihu.com/question/525901706/answer/2423388246)
 
+  
+
 ### “好好活着”系列：
 
 年轻的我该怎么继续活下去？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/533665465/answer/2495700007](https://www.zhihu.com/question/533665465/answer/2495700007)
@@ -641,12 +652,14 @@
 
 媒体称河北寻亲男孩刘学州轻生，经抢救无效死亡，在寻亲路上他经历了怎样的心路历程？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/513063032/answer/2322847329](https://www.zhihu.com/question/513063032/answer/2322847329)
 
-警方通报「25 岁摄影师[鹿道森](https://www.zhihu.com/search?q=%E9%B9%BF%E9%81%93%E6%A3%AE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1812786628%7D)遗体被打捞上岸，已不幸离世」，具体情况如何？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/502856388/answer/2261719080](https://www.zhihu.com/question/502856388/answer/2261719080)
+警方通报「25 岁摄影师鹿道森遗体被打捞上岸，已不幸离世」，具体情况如何？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/502856388/answer/2261719080](https://www.zhihu.com/question/502856388/answer/2261719080)
 
 如何看待2020年12月15日北交大大三学生跳楼，疑似遗书称「失去人生目标」？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/434920021/answer/1629426870](https://www.zhihu.com/question/434920021/answer/1629426870)
 
 今天我亲爱的女儿自杀了，还有八天就是她的生日了，她在20年被确诊为双相，她是真的没有病痛了吗? - nell nell的回答 - 知乎 [https://www.zhihu.com/question/509331217/answer/2347067086](https://www.zhihu.com/question/509331217/answer/2347067086)
 
 如果身边不熟的人要自杀应该怎么办？ - nell nell的回答 - 知乎 [https://www.zhihu.com/question/516216318/answer/2373062480](https://www.zhihu.com/question/516216318/answer/2373062480)
+
+  
 
 （此声明随时更新）

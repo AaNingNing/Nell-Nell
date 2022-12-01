@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Nell Nell/00 - 致读者/读者协议 Updated Agreement.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Nell Nell/00 - 致读者/读者协议 Updated Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,20 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.3333282470703,
-    "collapsed": true
+    "width": 218.3333282470703
   },
-  "active": "a5eacfc43dffa87e",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/问题的根源.md",
-    "【本周更新】/陪.md",
-    "【本周更新】/球迷拷问文学.md",
-    "【本周更新】/做自己.md",
-    "【本周更新】/终有一死.md",
-    "README.md",
-    "Nell Nell/01 - “是什么”系列/勇士与斗士.md",
-    "Nell Nell/02 - “怎么办”系列/不理想的婆婆.md",
-    "Nell Nell/03 - “如何看待”系列/核酸检测新政.md",
-    "Nell Nell/02 - “怎么办”系列/总吃亏.md"
+    "Nell Nell/03 - “如何看待”系列/血腥独立日.md",
+    "Nell Nell/00 - 致读者/读者协议 Updated Agreement.md",
+    "Nell Nell/03 - “如何看待”系列/美国法案.md",
+    "Nell Nell/01 - “是什么”系列/赞美苦难.md",
+    "Nell Nell/02 - “怎么办”系列/此路不通.md",
+    "Nell Nell/02 - “怎么办”系列/校园霸凌.md",
+    "Nell Nell/06 - 书评 & 影评/李安.md",
+    "Nell Nell/02 - “怎么办”系列/自觉软弱.md",
+    "Nell Nell/02 - “怎么办”系列/爱与被爱.md",
+    "Nell Nell/01 - “是什么”系列/言语行为理论.md"
   ]
 }
