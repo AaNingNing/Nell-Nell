@@ -49,7 +49,7 @@ https://zhuanlan.zhihu.com/p/380200295
 #### Label format
 
 > Author: #NellNell
-> Last update: *02/12/2022*
+> Last update:
 > Link:
 > Tag:
 > 沙海拾金:
