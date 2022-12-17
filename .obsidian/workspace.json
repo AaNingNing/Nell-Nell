@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5c28446431f2da40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/结婚条件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【本周更新】/结婚条件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +123,17 @@
     "direction": "horizontal",
     "width": 218.3333282470703
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
+    "README.md",
+    "【本周更新】/结婚条件.md",
     "【本周更新】/爱的产生.md",
     "【本周更新】/平庸.md",
     "【本周更新】/因果报应.md",
-    "README.md",
     "沙海拾金/Omicron.md",
     "沙海拾金/中阿峰会.md",
     "沙海拾金/举例.md",
     "Nell Nell/01 - “是什么”系列/人之初.md",
-    "Nell Nell/03 - “如何看待”系列/猪队友.md",
-    "Nell Nell/01 - “是什么”系列/开悟.md"
+    "Nell Nell/03 - “如何看待”系列/猪队友.md"
   ]
 }
