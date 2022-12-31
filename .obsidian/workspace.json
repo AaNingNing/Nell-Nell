@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa0c3fb5a8fda22",
+        "id": "c593f3f82ecb45d7",
         "type": "tabs",
         "children": [
           {
-            "id": "71bc5f265e543dfa",
+            "id": "3f3b654dce8256dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,17 +124,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "71bc5f265e543dfa",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "【本周更新】/阿根廷夺冠.md",
-    "【本周更新】/洗碗机.md",
-    "【本周更新】/亲子问题.md",
+    "沙海拾金/初心.md",
+    "【本周更新】/偏爱.md",
+    "【本周更新】/西方伪史论.md",
+    "【本周更新】/人矿.md",
+    "Nell Nell/00 - 致读者/知乎回答指路（AKA自选集）.md",
     "沙海拾金/网传消息.md",
-    "沙海拾金/举例.md",
-    "沙海拾金/天气预报.md",
-    "沙海拾金/孩子打人.md",
+    "为什么人越长大越丧失勇气？.md",
+    "Nell Nell/01 - “是什么”系列/勇气.md",
     "README.md",
-    "Nell Nell/04 - “好好活着”系列/科研人员的Work&Life.md",
-    "Nell Nell/04 - “好好活着”系列/善待陌生人.md"
+    "Nell Nell/02 - “怎么办”系列/亲子问题.md"
   ]
 }

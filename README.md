@@ -9,6 +9,7 @@
 - 对更多内容感兴趣同学情移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
 - 或关注Nell Nell的微信公众号**影子大地shadowlands**
 - 影视推荐合集： [有哪些优秀（好看）的电影电视剧推荐？](https://www.zhihu.com/question/343096396/answer/2625826293)
+- 书籍推荐合集：[有哪些值得一看的书籍?](https://www.zhihu.com/question/350870144/answer/2625827304)
 - 笔记内文章[音频版]下载： https://github.com/idealclover/Nell-Nell-Audio
 
 感谢作者的授权。
