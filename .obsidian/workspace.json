@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c593f3f82ecb45d7",
+        "id": "e995a86343c03c96",
         "type": "tabs",
         "children": [
           {
-            "id": "cf27b8cae4ead7e7",
+            "id": "5a3a31d122c264d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/偏爱.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "偏爱",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/偏爱.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +120,15 @@
   },
   "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/《阿凡达：水之道》.md",
+    "【本周更新】/灵修.md",
+    "【本周更新】/思考.md",
     "README.md",
-    "【本周更新】/偏爱.md",
+    "Nell Nell/01 - “是什么”系列/偏爱.md",
+    "Nell Nell/06 - 书评 & 影评/《阿凡达：水之道》.md",
     "Nell Nell/01 - “是什么”系列/西方伪史论.md",
     "Nell Nell/03 - “如何看待”系列/人矿.md",
     "Nell Nell/00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
     "Nell Nell/00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "沙海拾金/初心.md",
-    "沙海拾金/网传消息.md",
-    "为什么人越长大越丧失勇气？.md"
+    "沙海拾金/初心.md"
   ]
 }
