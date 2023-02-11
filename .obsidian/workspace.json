@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df55664078f685d2",
+        "id": "e17d8f8daac1ca58",
         "type": "tabs",
         "children": [
           {
-            "id": "59be7494b7ab8032",
+            "id": "c8096906264c602b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nell Nell/02 - “怎么办”系列/高价赔偿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fafbd74e0ac80e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/开放性关系.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43dd4027ae9b528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/子女崩溃.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82ac3a2e493120fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/《流浪地球 2》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e6eb4872ee9bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/《赛斯书》.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/《赛斯书》.md",
+                "file": "【本周更新】/及时止损.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,17 +119,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/《流浪地球 2》.md",
-    "【本周更新】/开放性关系.md",
-    "【本周更新】/子女崩溃.md",
-    "【本周更新】/《赛斯书》.md",
+    "【本周更新】/婚后财产问题.md",
+    "【本周更新】/及时止损.md",
+    "Nell Nell/02 - “怎么办”系列/子女崩溃.md",
     "README.md",
+    "Nell Nell/02 - “怎么办”系列/开放性关系.md",
     "Nell Nell/02 - “怎么办”系列/高价赔偿.md",
+    "Nell Nell/06 - 书评 & 影评/《流浪地球 2》.md",
+    "Nell Nell/06 - 书评 & 影评/《赛斯书》.md",
     "Nell Nell/03 - “如何看待”系列/怕鬼.md",
-    "Nell Nell/01 - “是什么”系列/救赎.md",
-    "Nell Nell/06 - 书评 & 影评/《三体》.md",
-    "Nell Nell/01 - “是什么”系列/死而无憾.md"
+    "Nell Nell/01 - “是什么”系列/救赎.md"
   ]
 }
