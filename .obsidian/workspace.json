@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8096906264c602b",
+            "id": "15883925e76c2d69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/瞎琢磨.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/及时止损.md",
+                "file": "【本周更新】/瞎琢磨.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +125,15 @@
   },
   "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/婚后财产问题.md",
-    "【本周更新】/及时止损.md",
-    "Nell Nell/02 - “怎么办”系列/子女崩溃.md",
+    "【本周更新】/承诺.md",
+    "【本周更新】/chatGPT.md",
+    "【本周更新】/社会的残酷.md",
+    "【本周更新】/信托.md",
+    "【本周更新】/瞎琢磨.md",
     "README.md",
-    "Nell Nell/02 - “怎么办”系列/开放性关系.md",
-    "Nell Nell/02 - “怎么办”系列/高价赔偿.md",
-    "Nell Nell/06 - 书评 & 影评/《流浪地球 2》.md",
-    "Nell Nell/06 - 书评 & 影评/《赛斯书》.md",
-    "Nell Nell/03 - “如何看待”系列/怕鬼.md",
-    "Nell Nell/01 - “是什么”系列/救赎.md"
+    "Nell Nell/03 - “如何看待”系列/婚后财产问题.md",
+    "Nell Nell/02 - “怎么办”系列/及时止损.md",
+    "Nell Nell/02 - “怎么办”系列/子女崩溃.md",
+    "Nell Nell/02 - “怎么办”系列/开放性关系.md"
   ]
 }
