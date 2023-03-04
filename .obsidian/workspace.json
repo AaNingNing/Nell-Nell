@@ -4,83 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "e17d8f8daac1ca58",
+        "id": "487b91e695f6a297",
         "type": "tabs",
         "children": [
           {
-            "id": "15883925e76c2d69",
+            "id": "cf1721699d7395f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nell Nell/03 - “如何看待”系列/社会的残酷.md",
+                "file": "【本周更新】/视死如归.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59b0ea04cf23a8f3",
+            "id": "ef3dbfbd84cb32ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/是非观.md",
+                "file": "【本周更新】/不抱怨.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a570ded69cd7ce9",
+            "id": "4276661190768e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/《北大宿舍聊天上野千鹤子》.md",
+                "file": "【本周更新】/可爱的昆虫.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fbe7276e1b94688",
+            "id": "0699031eca53427e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/拉链没拉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef06a2a518de5920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/演讲风波.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58bf6a027d1bdca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/安欣.md",
+                "file": "【本周更新】/视死如归.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/安欣.md",
+                "file": "【本周更新】/视死如归.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,15 +159,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "cf1721699d7395f2",
   "lastOpenFiles": [
-    "【本周更新】/演讲风波.md",
-    "【本周更新】/拉链没拉.md",
-    "【本周更新】/《北大宿舍聊天上野千鹤子》.md",
-    "【本周更新】/是非观.md",
-    "【本周更新】/安欣.md",
+    "【本周更新】/不抱怨.md",
+    "【本周更新】/可爱的昆虫.md",
+    "【本周更新】/视死如归.md",
     "README.md",
+    "Nell Nell/02 - “怎么办”系列/是非观.md",
     "Nell Nell/03 - “如何看待”系列/社会的残酷.md",
+    "Nell Nell/03 - “如何看待”系列/演讲风波.md",
+    "Nell Nell/02 - “怎么办”系列/拉链没拉.md",
+    "Nell Nell/06 - 书评 & 影评/《北大宿舍聊天上野千鹤子》.md",
+    "Nell Nell/06 - 书评 & 影评/安欣.md",
     "Nell Nell/04 - “好好活着”系列/瞎琢磨.md",
     "Nell Nell/03 - “如何看待”系列/承诺.md",
     "Nell Nell/03 - “如何看待”系列/chatGPT.md"
