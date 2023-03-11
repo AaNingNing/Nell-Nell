@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/视死如归.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef3dbfbd84cb32ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/不抱怨.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4276661190768e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/可爱的昆虫.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0699031eca53427e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/视死如归.md",
+                "file": "Nell Nell/02 - “怎么办”系列/视死如归.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/视死如归.md",
+                "file": "【本周更新】/被骗.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.3333282470703
+    "width": 218.3333282470703,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +124,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cf1721699d7395f2",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/不抱怨.md",
-    "【本周更新】/可爱的昆虫.md",
-    "【本周更新】/视死如归.md",
+    "Nell Nell/03 - “如何看待”系列/不抱怨.md",
+    "Nell Nell/04 - “好好活着”系列/可爱的昆虫.md",
+    "Nell Nell/02 - “怎么办”系列/视死如归.md",
+    "【本周更新】/被骗.md",
     "README.md",
     "Nell Nell/02 - “怎么办”系列/是非观.md",
     "Nell Nell/03 - “如何看待”系列/社会的残酷.md",
