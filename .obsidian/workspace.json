@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "487b91e695f6a297",
+        "id": "3b65d6eb8873952f",
         "type": "tabs",
         "children": [
           {
-            "id": "fed13b8e7707a5d8",
+            "id": "ed2b92a487af3a82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 273.5
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +119,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fed13b8e7707a5d8",
+  "active": "ed2b92a487af3a82",
   "lastOpenFiles": [
-    "【本周更新】/看淡委屈.md",
-    "【本周更新】/独立.md",
-    "Nell Nell/02 - “怎么办”系列/被骗.md",
+    "Nell Nell/03 - “如何看待”系列/独立.md",
+    "【本周更新】/说话的逻辑.md",
+    "【本周更新】/与你无关.md",
     "README.md",
+    "Nell Nell/03 - “如何看待”系列/看淡委屈.md",
+    "Nell Nell/02 - “怎么办”系列/被骗.md",
     "Nell Nell/03 - “如何看待”系列/空巢期.md",
     "Nell Nell/02 - “怎么办”系列/视死如归.md",
     "Nell Nell/03 - “如何看待”系列/不抱怨.md",
