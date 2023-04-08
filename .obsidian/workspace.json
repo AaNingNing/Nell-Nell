@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b65d6eb8873952f",
+        "id": "85d62a5b53afcc55",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2b92a487af3a82",
+            "id": "029a4fb9747aa106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nell Nell/02 - “怎么办”系列/与你无关.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcbf45fc310d3b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/最好的安排.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/最好的安排.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,12 +119,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dcbf45fc310d3b16",
+  "active": "029a4fb9747aa106",
   "lastOpenFiles": [
-    "README.md",
-    "【本周更新】/最好的安排.md",
-    "Nell Nell/02 - “怎么办”系列/说话的逻辑.md",
     "Nell Nell/02 - “怎么办”系列/与你无关.md",
+    "Nell Nell/01 - “是什么”系列/最好的安排.md",
+    "【本周更新】/必须强大.md",
+    "【本周更新】/走出阴影.md",
+    "README.md",
+    "Nell Nell/02 - “怎么办”系列/说话的逻辑.md",
     "Nell Nell/03 - “如何看待”系列/独立.md",
     "Nell Nell/03 - “如何看待”系列/看淡委屈.md",
     "Nell Nell/02 - “怎么办”系列/被骗.md",
