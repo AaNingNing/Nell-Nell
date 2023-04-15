@@ -11,8 +11,12 @@
             "id": "029a4fb9747aa106",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/真相.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "逻辑",
+                "query": "算力问题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【本周更新】/真相.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +126,14 @@
   },
   "active": "029a4fb9747aa106",
   "lastOpenFiles": [
+    "【本周更新】/全力以赴.md",
+    "【本周更新】/俄罗斯艺术之谜.md",
+    "【本周更新】/真相.md",
+    "README.md",
+    "Nell Nell/02 - “怎么办”系列/走出阴影.md",
+    "Nell Nell/03 - “如何看待”系列/必须强大.md",
     "Nell Nell/02 - “怎么办”系列/与你无关.md",
     "Nell Nell/01 - “是什么”系列/最好的安排.md",
-    "【本周更新】/必须强大.md",
-    "【本周更新】/走出阴影.md",
-    "README.md",
     "Nell Nell/02 - “怎么办”系列/说话的逻辑.md",
     "Nell Nell/03 - “如何看待”系列/独立.md",
     "Nell Nell/03 - “如何看待”系列/看淡委屈.md",
