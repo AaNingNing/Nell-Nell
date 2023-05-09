@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "85d62a5b53afcc55",
+        "id": "45fe2cd549ca716f",
         "type": "tabs",
         "children": [
           {
-            "id": "029a4fb9747aa106",
+            "id": "b941e60e518c0129",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/《当下的力量》.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "014b30d9b0030456",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/《当下的力量》.md",
+                "file": "沙海拾金/不必紧张.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +128,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "029a4fb9747aa106",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
     "沙海拾金/道成肉身.md",
+    "沙海拾金/不必紧张.md",
+    "【本周更新】/性骚扰.md",
+    "【本周更新】/表白.md",
+    "【本周更新】/Porn.md",
+    "【本周更新】/听取意见.md",
+    "【本周更新】/相亲问题.md",
     "【本周更新】/《当下的力量》.md",
     "沙海拾金/原谅与免责.md",
     "Untitled.md",
@@ -145,12 +155,6 @@
     "沙海拾金/帮助者与被助者.md",
     "沙海拾金/凡事盼望.md",
     "沙海拾金/走到一起.md",
-    "沙海拾金/量体裁衣.md",
-    "沙海拾金/四大名著.md",
-    "沙海拾金/补强 1.md",
-    "沙海拾金/受害者论.md",
-    "Nell Nell/04 - “好好活着”系列/全力以赴.md",
-    "Nell Nell/03 - “如何看待”系列/俄罗斯艺术之谜.md",
-    "Nell Nell/04 - “好好活着”系列/真相.md"
+    "沙海拾金/量体裁衣.md"
   ]
 }
