@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/脱口秀艺术.md",
+                "file": "【本周更新】/处世强健.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 578.5
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/脱口秀艺术.md",
+                "file": "【本周更新】/处世强健.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +132,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
+    "【本周更新】/殖民心理.md",
+    "【本周更新】/处世强健.md",
+    "【本周更新】/爱人到朋友.md",
+    "【本周更新】/亏欠.md",
+    "【本周更新】/异性交流.md",
+    "Nell Nell/01 - “是什么”系列/脱口秀艺术.md",
+    "Nell Nell/02 - “怎么办”系列/吹蜡烛.md",
     "【本周更新】/母系社会.md",
     "Nell Nell/01 - “是什么”系列/母系社会.md",
     "【本周更新】/脱口秀艺术.md",
@@ -153,13 +159,6 @@
     "Nell Nell/02 - “怎么办”系列/相亲问题.md",
     "沙海拾金/道成肉身.md",
     "【本周更新】/《当下的力量》.md",
-    "Nell Nell/02 - “怎么办”系列/尽力而为.md",
-    "无法原谅.md",
-    "Nell Nell/06 - 书评 & 影评/《愚公移山》.md",
-    "Nell Nell/03 - “如何看待”系列/宝马 MINI.md",
-    "Nell Nell/04 - “好好活着”系列/五饼二鱼.md",
-    "Nell Nell/03 - “如何看待”系列/受害者有罪论.md",
-    "沙海拾金/补强.md",
-    "沙海拾金/谎言.md"
+    "Nell Nell/02 - “怎么办”系列/尽力而为.md"
   ]
 }
