@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/卷.md",
+                "file": "【本周更新】/两全.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/卷.md",
+                "file": "【本周更新】/两全.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +133,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4e0dd60dcdebafed",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "【本周更新】/《瓦尔登湖》.md",
-    "【本周更新】/痴儿女.md",
-    "【本周更新】/哪吒.md",
-    "【本周更新】/卷.md",
+    "【本周更新】/人物刻画.md",
+    "Nell Nell/04 - “好好活着”系列/卷.md",
+    "【本周更新】/两全.md",
+    "Nell Nell/06 - 书评 & 影评/哪吒.md",
+    "Nell Nell/03 - “如何看待”系列/痴儿女.md",
+    "Nell Nell/06 - 书评 & 影评/《瓦尔登湖》.md",
     "沙海拾金/爱与信心.md",
     "沙海拾金/独立调查.md",
     "Nell Nell/02 - “怎么办”系列/处世强健.md",
@@ -157,8 +160,6 @@
     "Nell Nell/02 - “怎么办”系列/加分项.md",
     "Nell Nell/03 - “如何看待”系列/信心问题.md",
     "【本周更新】/发疯.md",
-    "Nell Nell/03 - “如何看待”系列/性骚扰.md",
-    "Nell Nell/01 - “是什么”系列/表白.md",
-    "Nell Nell/03 - “如何看待”系列/Porn.md"
+    "Nell Nell/03 - “如何看待”系列/性骚扰.md"
   ]
 }
