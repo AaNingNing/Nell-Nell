@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45fe2cd549ca716f",
+        "id": "467eb8d3250abdf6",
         "type": "tabs",
         "children": [
           {
-            "id": "4e0dd60dcdebafed",
+            "id": "bd67056650daadcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/一语成谶.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "个说法并不准",
+                "query": "tag:#NellNell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/一语成谶.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.3333282470703,
-    "collapsed": true
+    "width": 218.3333282470703
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,33 +126,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4e0dd60dcdebafed",
+  "active": "bd67056650daadcc",
   "lastOpenFiles": [
-    "【本周更新】/情绪稳定.md",
-    "【本周更新】/一语成谶.md",
+    "【本周更新】/对错.md",
+    "【本周更新】/心理问题的根源.md",
+    "【本周更新】/借外套.md",
+    "沙海拾金/RIP.md",
+    "沙海拾金/答案适用性.md",
+    "沙海拾金/人类叙事.md",
+    "沙海拾金/善行.md",
+    "沙海拾金/不必紧张.md",
+    "沙海拾金/关于补弱的讨论.md",
+    "Nell Nell/09 - 简答/一语成谶.md",
+    "Nell Nell/01 - “是什么”系列/情绪稳定.md",
     "Nell Nell/04 - “好好活着”系列/高等教育与信仰.md",
     "Nell Nell/02 - “怎么办”系列/听人说话.md",
     "Nell Nell/03 - “如何看待”系列/助人风险.md",
     "Nell Nell/03 - “如何看待”系列/社会炒作.md",
     "Nell Nell/06 - 书评 & 影评/演员争议.md",
     "沙海拾金/盟友.md",
-    "沙海拾金/关于补弱的讨论.md",
     "沙海拾金/关于表达能力.md",
     "【本周更新】/2023-06-17另外，不要担心有不同观点，这很正常，也….md",
     "沙海拾金/独立调查.md",
-    "沙海拾金/不必紧张.md",
     "沙海拾金/爱与信心.md",
     "【本周更新】/2023-06-17解释一下，我支持慧敏的发声，不是说她的….md",
     "Nell Nell/06 - 书评 & 影评/人物刻画.md",
     "Nell Nell/01 - “是什么”系列/两全.md",
     "Nell Nell/04 - “好好活着”系列/卷.md",
-    "Nell Nell/06 - 书评 & 影评/哪吒.md",
-    "Nell Nell/03 - “如何看待”系列/痴儿女.md",
-    "Nell Nell/06 - 书评 & 影评/《瓦尔登湖》.md",
-    "Nell Nell/02 - “怎么办”系列/处世强健.md",
-    "Nell Nell/03 - “如何看待”系列/殖民心理.md",
-    "Nell Nell/02 - “怎么办”系列/爱人到朋友.md",
-    "Nell Nell/02 - “怎么办”系列/亏欠.md",
-    "Nell Nell/02 - “怎么办”系列/异性交流.md"
+    "Nell Nell/06 - 书评 & 影评/哪吒.md"
   ]
 }
