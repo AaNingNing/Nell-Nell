@@ -11,8 +11,12 @@
             "id": "bd67056650daadcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/厌童症.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NellNell",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578.5
+    "width": 347.5
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【本周更新】/厌童症.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,33 +131,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd67056650daadcc",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/对错.md",
-    "【本周更新】/心理问题的根源.md",
-    "【本周更新】/借外套.md",
-    "沙海拾金/RIP.md",
+    "【本周更新】/心理边界.md",
+    "【本周更新】/对台战争.md",
+    "【本周更新】/厌童症.md",
+    "Nell Nell/01 - “是什么”系列/脱口秀艺术.md",
     "沙海拾金/答案适用性.md",
-    "沙海拾金/人类叙事.md",
+    "【本周更新】/2023-07-08人类叙事是有结构的，把人物和人物关系符….md",
+    "【本周更新】/2023-07-07所有心理问题的根源是什么？.md",
+    "Nell Nell/02 - “怎么办”系列/不平庸.md",
+    "Nell Nell/06 - 书评 & 影评/《起风了》.md",
+    "Nell Nell/01 - “是什么”系列/心理问题的根源.md",
+    "【本周更新】/2023-07-09有人建议我在回答里写上答案适用性.md",
+    "【本周更新】/2023-07-08乐于助人当然是善行，但越是善行越要慎重.md",
+    "【本周更新】/2023-07-04男朋友很没有边界感没有隐私意识怎么办？.md",
     "沙海拾金/善行.md",
+    "【本周更新】/2023-07-08已婚男生高铁上把外套借给旁边陌生女生，这个行为可以理解吗？.md",
+    "沙海拾金/RIP.md",
+    "【本周更新】/RIP.md",
+    "Nell Nell/03 - “如何看待”系列/借外套.md",
+    "Nell Nell/02 - “怎么办”系列/对错.md",
+    "沙海拾金/人类叙事.md",
     "沙海拾金/不必紧张.md",
     "沙海拾金/关于补弱的讨论.md",
     "Nell Nell/09 - 简答/一语成谶.md",
     "Nell Nell/01 - “是什么”系列/情绪稳定.md",
     "Nell Nell/04 - “好好活着”系列/高等教育与信仰.md",
-    "Nell Nell/02 - “怎么办”系列/听人说话.md",
-    "Nell Nell/03 - “如何看待”系列/助人风险.md",
-    "Nell Nell/03 - “如何看待”系列/社会炒作.md",
-    "Nell Nell/06 - 书评 & 影评/演员争议.md",
-    "沙海拾金/盟友.md",
-    "沙海拾金/关于表达能力.md",
-    "【本周更新】/2023-06-17另外，不要担心有不同观点，这很正常，也….md",
-    "沙海拾金/独立调查.md",
-    "沙海拾金/爱与信心.md",
-    "【本周更新】/2023-06-17解释一下，我支持慧敏的发声，不是说她的….md",
-    "Nell Nell/06 - 书评 & 影评/人物刻画.md",
-    "Nell Nell/01 - “是什么”系列/两全.md",
-    "Nell Nell/04 - “好好活着”系列/卷.md",
-    "Nell Nell/06 - 书评 & 影评/哪吒.md"
+    "Nell Nell/02 - “怎么办”系列/听人说话.md"
   ]
 }
