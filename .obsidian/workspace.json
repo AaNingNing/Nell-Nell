@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/厌童症.md",
+                "file": "【本周更新】/小人.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/厌童症.md",
+                "file": "【本周更新】/小人.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +132,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78adbaa0ce0f4f74",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "【本周更新】/心理边界.md",
-    "【本周更新】/对台战争.md",
-    "【本周更新】/厌童症.md",
+    "【本周更新】/《年轻的教皇》(The Young Pope）.md",
+    "【本周更新】/厌烦.md",
+    "【本周更新】/小人.md",
+    "【本周更新】/破镜重圆.md",
+    "【本周更新】/旧物处理.md",
+    "Nell Nell/01 - “是什么”系列/心理边界.md",
+    "Nell Nell/03 - “如何看待”系列/厌童症.md",
+    "Nell Nell/02 - “怎么办”系列/对台战争.md",
     "Nell Nell/01 - “是什么”系列/脱口秀艺术.md",
     "沙海拾金/答案适用性.md",
     "【本周更新】/2023-07-08人类叙事是有结构的，把人物和人物关系符….md",
@@ -153,11 +159,6 @@
     "Nell Nell/03 - “如何看待”系列/借外套.md",
     "Nell Nell/02 - “怎么办”系列/对错.md",
     "沙海拾金/人类叙事.md",
-    "沙海拾金/不必紧张.md",
-    "沙海拾金/关于补弱的讨论.md",
-    "Nell Nell/09 - 简答/一语成谶.md",
-    "Nell Nell/01 - “是什么”系列/情绪稳定.md",
-    "Nell Nell/04 - “好好活着”系列/高等教育与信仰.md",
-    "Nell Nell/02 - “怎么办”系列/听人说话.md"
+    "沙海拾金/不必紧张.md"
   ]
 }
