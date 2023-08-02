@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/小人.md",
+                "file": "Nell Nell/02 - “怎么办”系列/厌烦.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "医生厌烦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/小人.md",
+                "file": "Nell Nell/02 - “怎么办”系列/厌烦.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,13 +132,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "bd67056650daadcc",
   "lastOpenFiles": [
-    "【本周更新】/《年轻的教皇》(The Young Pope）.md",
-    "【本周更新】/厌烦.md",
-    "【本周更新】/小人.md",
-    "【本周更新】/破镜重圆.md",
-    "【本周更新】/旧物处理.md",
+    "【本周更新】/不伤害.md",
+    "【本周更新】/有问题与有过错.md",
+    "【本周更新】/皆有可能.md",
+    "【本周更新】/希望你好.md",
+    "Nell Nell/02 - “怎么办”系列/厌烦.md",
+    "Nell Nell/02 - “怎么办”系列/小人.md",
+    "Nell Nell/03 - “如何看待”系列/破镜重圆.md",
+    "Nell Nell/02 - “怎么办”系列/旧物处理.md",
+    "Nell Nell/06 - 书评 & 影评/《年轻的教皇》(The Young Pope）.md",
     "Nell Nell/01 - “是什么”系列/心理边界.md",
     "Nell Nell/03 - “如何看待”系列/厌童症.md",
     "Nell Nell/02 - “怎么办”系列/对台战争.md",
@@ -155,10 +159,6 @@
     "沙海拾金/善行.md",
     "【本周更新】/2023-07-08已婚男生高铁上把外套借给旁边陌生女生，这个行为可以理解吗？.md",
     "沙海拾金/RIP.md",
-    "【本周更新】/RIP.md",
-    "Nell Nell/03 - “如何看待”系列/借外套.md",
-    "Nell Nell/02 - “怎么办”系列/对错.md",
-    "沙海拾金/人类叙事.md",
-    "沙海拾金/不必紧张.md"
+    "【本周更新】/RIP.md"
   ]
 }
