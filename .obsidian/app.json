@@ -3,5 +3,11 @@
   "livePreview": true,
   "fileSortOrder": "alphabetical",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 50
+  }
 }
