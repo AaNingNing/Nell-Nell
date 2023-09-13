@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/好声音.md",
+                "file": "【本周更新】/学爱.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "医生厌烦",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/好声音.md",
+                "file": "【本周更新】/学爱.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,12 @@
   },
   "active": "bd67056650daadcc",
   "lastOpenFiles": [
-    "【本周更新】/游学.md",
-    "【本周更新】/好声音.md",
-    "【本周更新】/划红线.md",
+    "【本周更新】/剥虾.md",
+    "Nell Nell/02 - “怎么办”系列/划红线.md",
+    "Nell Nell/02 - “怎么办”系列/游学.md",
+    "Nell Nell/03 - “如何看待”系列/好声音.md",
+    "【本周更新】/唯美诗句.md",
+    "Nell Nell/01 - “是什么”系列/印度冷知识.md",
     "Nell Nell/02 - “怎么办”系列/信任危机.md",
     "Nell Nell/01 - “是什么”系列/童真与幼稚.md",
     "Nell Nell/02 - “怎么办”系列/尊重遗憾.md",
@@ -155,9 +158,6 @@
     "Nell Nell/06 - 书评 & 影评-merged.md",
     "Nell Nell/08 - 推荐-merged.md",
     "Nell Nell/03 - “如何看待”系列/规范意识.md",
-    "Nell Nell/02 - “怎么办”系列/让之错.md",
-    "Nell Nell/06 - 书评 & 影评/《封神》.md",
-    "Nell Nell/02 - “怎么办”系列/有爱的语言.md",
-    "Nell Nell/03 - “如何看待”系列/学逻辑.md"
+    "Nell Nell/02 - “怎么办”系列/让之错.md"
   ]
 }
