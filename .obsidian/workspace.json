@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/爱情.md",
+                "file": "【本周更新】/反内耗.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/爱情.md",
+                "file": "【本周更新】/反内耗.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,13 @@
   },
   "active": "bd67056650daadcc",
   "lastOpenFiles": [
-    "【本周更新】/李佳琦.md",
-    "【本周更新】/Off-work.md",
-    "【本周更新】/信念与执念.md",
+    "【本周更新】/学徒.md",
+    "【本周更新】/反内耗.md",
+    "Nell Nell/00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+    "Nell Nell/01 - “是什么”系列/爱情.md",
+    "Nell Nell/01 - “是什么”系列/信念与执念.md",
+    "Nell Nell/02 - “怎么办”系列/Off-work.md",
+    "Nell Nell/03 - “如何看待”系列/李佳琦.md",
     "Nell Nell/01 - “是什么”系列/学爱.md",
     "Nell Nell/06 - 书评 & 影评/唯美诗句.md",
     "Nell Nell/03 - “如何看待”系列/剥虾.md",
@@ -149,15 +153,11 @@
     "Nell Nell/01 - “是什么”系列/尊重.md",
     "Nell Nell/03 - “如何看待”系列/知命.md",
     "Nell Nell/00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "Nell Nell/00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
     "Nell Nell/09 - 简答/深邃与幼稚.md",
     "Nell Nell/09 - 简答/一语成谶.md",
     "Nell Nell/09 - 简答-merged.md",
     "Nell Nell/00 - 致读者-merged.md",
     "Nell Nell/01 - “是什么”系列-merged.md",
-    "Nell Nell/02 - “怎么办”系列-merged.md",
-    "Nell Nell/03 - “如何看待”系列-merged.md",
-    "Nell Nell/04 - “好好活着”系列-merged.md",
-    "Nell Nell/05 - 圣经 & 神学-merged.md"
+    "Nell Nell/02 - “怎么办”系列-merged.md"
   ]
 }
