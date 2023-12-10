@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/不喜欢自己的人.md",
+                "file": "【本周更新】/普世答案.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/不喜欢自己的人.md",
+                "file": "【本周更新】/普世答案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +131,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78adbaa0ce0f4f74",
+  "active": "bd67056650daadcc",
   "lastOpenFiles": [
-    "【本周更新】/争议.md",
-    "【本周更新】/反犹.md",
-    "【本周更新】/标题党.md",
-    "【本周更新】/不喜欢自己的人.md",
+    "【本周更新】/声明.md",
+    "【本周更新】/普世答案.md",
+    "【本周更新】/对人好.md",
+    "【本周更新】/得罪.md",
+    "Nell Nell/03 - “如何看待”系列/标题党.md",
+    "沙海拾金/三体.md",
+    "Nell Nell/03 - “如何看待”系列/反犹.md",
+    "Nell Nell/03 - “如何看待”系列/争议.md",
+    "Nell Nell/02 - “怎么办”系列/不喜欢自己的人.md",
+    "README.md",
     "Nell Nell/03 - “如何看待”系列/集体患癌事件.md",
     "Nell Nell/02 - “怎么办”系列/爱上.md",
     "Nell Nell/01 - “是什么”系列/女性困境.md",
@@ -152,12 +158,6 @@
     "Nell Nell/03 - “如何看待”系列/巴以冲突.md",
     "Nell Nell/03 - “如何看待”系列/应许之地.md",
     "Nell Nell/01 - “是什么”系列/傲气.md",
-    "Nell Nell/03 - “如何看待”系列/性骚扰 3.md",
-    "Nell Nell/03 - “如何看待”系列/黑暗森林法则.md",
-    "Nell Nell/02 - “怎么办”系列/取名.md",
-    "Nell Nell/01 - “是什么”系列/转折点.md",
-    "Nell Nell/01 - “是什么”系列/色情是不是艺术.md",
-    "Nell Nell/01 - “是什么”系列/自由.md",
-    "Nell Nell/02 - “怎么办”系列/论迹论心.md"
+    "Nell Nell/03 - “如何看待”系列/性骚扰 3.md"
   ]
 }
