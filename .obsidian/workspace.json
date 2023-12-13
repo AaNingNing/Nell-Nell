@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/普世答案.md",
+                "file": "【本周更新】/人人都需要共情.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 210.5
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/普世答案.md",
+                "file": "【本周更新】/人人都需要共情.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,10 +133,12 @@
   },
   "active": "bd67056650daadcc",
   "lastOpenFiles": [
+    "【本周更新】/不关灯.md",
+    "【本周更新】/人人都需要共情.md",
+    "Nell Nell/00 - 致读者/普世答案.md",
+    "Nell Nell/03 - “如何看待”系列/得罪.md",
+    "Nell Nell/03 - “如何看待”系列/对人好.md",
     "【本周更新】/声明.md",
-    "【本周更新】/普世答案.md",
-    "【本周更新】/对人好.md",
-    "【本周更新】/得罪.md",
     "Nell Nell/03 - “如何看待”系列/标题党.md",
     "沙海拾金/三体.md",
     "Nell Nell/03 - “如何看待”系列/反犹.md",
@@ -156,8 +158,6 @@
     "Nell Nell/03 - “如何看待”系列/至死少年.md",
     "Nell Nell/03 - “如何看待”系列/车里.md",
     "Nell Nell/03 - “如何看待”系列/巴以冲突.md",
-    "Nell Nell/03 - “如何看待”系列/应许之地.md",
-    "Nell Nell/01 - “是什么”系列/傲气.md",
-    "Nell Nell/03 - “如何看待”系列/性骚扰 3.md"
+    "Nell Nell/03 - “如何看待”系列/应许之地.md"
   ]
 }
