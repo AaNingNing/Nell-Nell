@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "467eb8d3250abdf6",
+        "id": "723dc3c18734dbc1",
         "type": "tabs",
         "children": [
           {
-            "id": "bd67056650daadcc",
+            "id": "0ef6235996f2768f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/人人都需要共情.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/人人都需要共情.md",
+                "file": "【本周更新】/仆人领袖.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,10 +127,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd67056650daadcc",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/不关灯.md",
-    "【本周更新】/人人都需要共情.md",
+    "【本周更新】/周海媚.md",
+    "【本周更新】/平安.md",
+    "【本周更新】/获爱.md",
+    "【本周更新】/真相.md",
+    "【本周更新】/片刻欢愉.md",
+    "【本周更新】/圣诞节.md",
+    "【本周更新】/变革时代.md",
+    "【本周更新】/利益协议.md",
+    "【本周更新】/初心.md",
+    "【本周更新】/免于抱怨.md",
+    "【本周更新】/仆人领袖.md",
+    "Nell Nell/03 - “如何看待”系列/不关灯.md",
+    "Nell Nell/03 - “如何看待”系列/人人都需要共情.md",
     "Nell Nell/00 - 致读者/普世答案.md",
     "Nell Nell/03 - “如何看待”系列/得罪.md",
     "Nell Nell/03 - “如何看待”系列/对人好.md",
@@ -147,17 +154,6 @@
     "README.md",
     "Nell Nell/03 - “如何看待”系列/集体患癌事件.md",
     "Nell Nell/02 - “怎么办”系列/爱上.md",
-    "Nell Nell/01 - “是什么”系列/女性困境.md",
-    "Nell Nell/01 - “是什么”系列/事实与叙事.md",
-    "Nell Nell/03 - “如何看待”系列/热销游戏.md",
-    "【本周更新】/2023-11-09网传中山二院乳腺外科团队多名研究生集体罹患罕见肿瘤，院方回应称消息不实，实际情况如何？ 1.md",
-    "【本周更新】/2023-11-10你认为在现在的生活中，女性遇到的最大困境是什么？.md",
-    "【本周更新】/2023-11-11我要怎么做，才能让分享干货硬知识的反差萌知性美少女大V爱上我？.md",
-    "Nell Nell/03 - “如何看待”系列/巴以冲突 1.md",
-    "Nell Nell/03 - “如何看待”系列/站边.md",
-    "Nell Nell/03 - “如何看待”系列/至死少年.md",
-    "Nell Nell/03 - “如何看待”系列/车里.md",
-    "Nell Nell/03 - “如何看待”系列/巴以冲突.md",
-    "Nell Nell/03 - “如何看待”系列/应许之地.md"
+    "Nell Nell/01 - “是什么”系列/女性困境.md"
   ]
 }
