@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "474b86d98d81137f",
+        "id": "c1685018111ed8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b93ac1f3b6663868",
+            "id": "4fcfec12568140ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/奴性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59ad3a6c1bf0ed41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沙海拾金/繁花.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39fd7528c9c07314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/师兄.md",
+                "file": "【本周更新】/防范的度.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/师兄.md",
+                "file": "【本周更新】/防范的度.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +132,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78adbaa0ce0f4f74",
+  "active": "4fcfec12568140ff",
   "lastOpenFiles": [
-    "沙海拾金/Omicron.md",
+    "【本周更新】/养生之道.md",
     "沙海拾金/繁花.md",
+    "沙海拾金/繁花 1.md",
+    "沙海拾金/Omicron.md",
+    "【本周更新】/防范的度.md",
+    "Nell Nell/01 - “是什么”系列/奴性.md",
+    "Nell Nell/01 - “是什么”系列/师兄.md",
     "沙海拾金/三体.md",
-    "【本周更新】/师兄.md",
     "README.md",
     "赞美苦难.md",
-    "【本周更新】/奴性.md",
     "Nell Nell/03 - “如何看待”系列/Homeless问题.md",
     "Nell Nell/02 - “怎么办”系列/成熟的表达.md",
     "Nell Nell/02 - “怎么办”系列/求原谅.md",
@@ -181,9 +159,6 @@
     "Nell Nell/01 - “是什么”系列/平安.md",
     "Nell Nell/09 - 简答/片刻欢愉.md",
     "Nell Nell/03 - “如何看待”系列/真相.md",
-    "Nell Nell/02 - “怎么办”系列/获爱.md",
-    "Nell Nell/03 - “如何看待”系列/仆人领袖.md",
-    "沙海拾金/合宜.md",
-    "Nell Nell/03 - “如何看待”系列/不关灯.md"
+    "Nell Nell/02 - “怎么办”系列/获爱.md"
   ]
 }
