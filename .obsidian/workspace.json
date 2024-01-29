@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/养生之道.md",
+                "file": "【本周更新】/道德公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c138bb9ec0e38bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/道德公式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 422.5
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/养生之道.md",
+                "file": "【本周更新】/道德公式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +145,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4fcfec12568140ff",
+  "active": "2c138bb9ec0e38bc",
   "lastOpenFiles": [
-    "【本周更新】/防范的度.md",
+    "【本周更新】/欲望转化.md",
+    "【本周更新】/哑巴亏.md",
+    "【本周更新】/弦外之音.md",
+    "【本周更新】/请君重作醉歌行.md",
+    "【本周更新】/保密义务.md",
+    "【本周更新】/道德公式.md",
+    "Nell Nell/04 - “好好活着”系列/养生之道.md",
+    "Nell Nell/01 - “是什么”系列/防范的度.md",
     "Nell Nell/01 - “是什么”系列/师兄.md",
     "Nell Nell/01 - “是什么”系列/奴性.md",
-    "【本周更新】/养生之道.md",
     "沙海拾金/繁花.md",
     "沙海拾金/繁花 1.md",
     "沙海拾金/Omicron.md",
@@ -152,13 +171,6 @@
     "Nell Nell/00 - 致读者/普世答案.md",
     "Nell Nell/02 - “怎么办”系列/免于抱怨.md",
     "Nell Nell/09 - 简答/初心.md",
-    "Nell Nell/03 - “如何看待”系列/利益协议.md",
-    "Nell Nell/03 - “如何看待”系列/变革时代.md",
-    "Nell Nell/09 - 简答/周海媚.md",
-    "Nell Nell/03 - “如何看待”系列/圣诞节.md",
-    "Nell Nell/01 - “是什么”系列/平安.md",
-    "Nell Nell/09 - 简答/片刻欢愉.md",
-    "Nell Nell/03 - “如何看待”系列/真相.md",
-    "Nell Nell/02 - “怎么办”系列/获爱.md"
+    "Nell Nell/03 - “如何看待”系列/利益协议.md"
   ]
 }
