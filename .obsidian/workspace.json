@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1685018111ed8d3",
+        "id": "d9f89664a6588ab8",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb0d060f88b35a5",
+            "id": "9534fabcc3ab97ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/GOD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 200
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/GOD.md",
+                "file": "【本周更新】/好恶.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +128,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8fb0d060f88b35a5",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/不猜测.md",
-    "【本周更新】/GOD.md",
+    "【本周更新】/不强迫.md",
+    "【本周更新】/不给面子.md",
+    "【本周更新】/反歧视.md",
+    "【本周更新】/好恶.md",
+    "README.md",
+    "Nell Nell/02 - “怎么办”系列/不猜测.md",
+    "Nell Nell/05 - 圣经 & 神学/GOD.md",
     "Nell Nell/03 - “如何看待”系列/道德公式.md",
     "Nell Nell/04 - “好好活着”系列/欲望转化.md",
     "Nell Nell/03 - “如何看待”系列/哑巴亏.md",
@@ -150,15 +151,10 @@
     "沙海拾金/繁花 1.md",
     "沙海拾金/Omicron.md",
     "沙海拾金/三体.md",
-    "README.md",
     "赞美苦难.md",
     "Nell Nell/03 - “如何看待”系列/Homeless问题.md",
     "Nell Nell/02 - “怎么办”系列/成熟的表达.md",
     "Nell Nell/02 - “怎么办”系列/求原谅.md",
-    "Nell Nell/01 - “是什么”系列/浪漫本质.md",
-    "Nell Nell/04 - “好好活着”系列/风景.md",
-    "Nell Nell/00 - 致读者/普世答案.md",
-    "Nell Nell/02 - “怎么办”系列/免于抱怨.md",
-    "Nell Nell/09 - 简答/初心.md"
+    "Nell Nell/01 - “是什么”系列/浪漫本质.md"
   ]
 }
