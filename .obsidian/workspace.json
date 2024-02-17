@@ -11,8 +11,12 @@
             "id": "9534fabcc3ab97ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/爱的意志力.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/好恶.md",
+                "file": "【本周更新】/爱的意志力.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,12 +132,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78adbaa0ce0f4f74",
+  "active": "9534fabcc3ab97ec",
   "lastOpenFiles": [
-    "【本周更新】/不强迫.md",
-    "【本周更新】/不给面子.md",
-    "【本周更新】/反歧视.md",
-    "【本周更新】/好恶.md",
+    "【本周更新】/彩礼.md",
+    "沙海拾金/贾玲.md",
+    "沙海拾金/繁花.md",
+    "Nell Nell/02 - “怎么办”系列/好恶.md",
+    "Nell Nell/02 - “怎么办”系列/不强迫.md",
+    "Nell Nell/03 - “如何看待”系列/不给面子.md",
+    "Nell Nell/03 - “如何看待”系列/反歧视.md",
     "README.md",
     "Nell Nell/02 - “怎么办”系列/不猜测.md",
     "Nell Nell/05 - 圣经 & 神学/GOD.md",
@@ -147,14 +154,11 @@
     "Nell Nell/01 - “是什么”系列/防范的度.md",
     "Nell Nell/01 - “是什么”系列/师兄.md",
     "Nell Nell/01 - “是什么”系列/奴性.md",
-    "沙海拾金/繁花.md",
     "沙海拾金/繁花 1.md",
     "沙海拾金/Omicron.md",
     "沙海拾金/三体.md",
     "赞美苦难.md",
     "Nell Nell/03 - “如何看待”系列/Homeless问题.md",
-    "Nell Nell/02 - “怎么办”系列/成熟的表达.md",
-    "Nell Nell/02 - “怎么办”系列/求原谅.md",
-    "Nell Nell/01 - “是什么”系列/浪漫本质.md"
+    "Nell Nell/02 - “怎么办”系列/成熟的表达.md"
   ]
 }
