@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/说教.md",
+                "file": "【本周更新】/抗议.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "正邪之分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/说教.md",
+                "file": "【本周更新】/抗议.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,12 +134,18 @@
   },
   "active": "9534fabcc3ab97ec",
   "lastOpenFiles": [
-    "【本周更新】/努力活着.md",
-    "【本周更新】/说教.md",
+    "沙海拾金/时代的两面.md",
+    "沙海拾金/Forks.md",
+    "【本周更新】/抗议.md",
+    "【本周更新】/自强.md",
+    "【本周更新】/主导权.md",
+    "【本周更新】/正邪.md",
+    "沙海拾金/正邪之分.md",
+    "Nell Nell/04 - “好好活着”系列/努力活着.md",
+    "Nell Nell/03 - “如何看待”系列/说教.md",
     "Nell Nell/03 - “如何看待”系列/信心.md",
     "Nell Nell/06 - 书评 & 影评/红毯先生.md",
     "Nell Nell/06 - 书评 & 影评/热辣滚烫.md",
-    "沙海拾金/Forks.md",
     "沙海拾金/天人合一.md",
     "沙海拾金/贾玲.md",
     "沙海拾金/得理更饶人.md",
@@ -153,12 +159,6 @@
     "README.md",
     "Nell Nell/02 - “怎么办”系列/不猜测.md",
     "Nell Nell/05 - 圣经 & 神学/GOD.md",
-    "Nell Nell/03 - “如何看待”系列/道德公式.md",
-    "Nell Nell/04 - “好好活着”系列/欲望转化.md",
-    "Nell Nell/03 - “如何看待”系列/哑巴亏.md",
-    "Nell Nell/02 - “怎么办”系列/弦外之音.md",
-    "Nell Nell/06 - 书评 & 影评/请君重作醉歌行.md",
-    "Nell Nell/02 - “怎么办”系列/保密义务.md",
-    "Nell Nell/04 - “好好活着”系列/养生之道.md"
+    "Nell Nell/03 - “如何看待”系列/道德公式.md"
   ]
 }
