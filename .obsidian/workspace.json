@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f89664a6588ab8",
+        "id": "dea086909800edee",
         "type": "tabs",
         "children": [
           {
-            "id": "9534fabcc3ab97ec",
+            "id": "49510af9615dfb3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【本周更新】/抗议.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正邪之分",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/抗议.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,14 +126,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9534fabcc3ab97ec",
+  "active": "49510af9615dfb3b",
   "lastOpenFiles": [
+    "【本周更新】/产后抑郁.md",
+    "【本周更新】/吃醋.md",
+    "【本周更新】/Gaze.md",
+    "【本周更新】/四问美国.md",
+    "Nell Nell/03 - “如何看待”系列/抗议.md",
+    "Nell Nell/02 - “怎么办”系列/主导权.md",
+    "Nell Nell/06 - 书评 & 影评/正邪.md",
+    "Nell Nell/04 - “好好活着”系列/自强.md",
     "沙海拾金/时代的两面.md",
     "沙海拾金/Forks.md",
-    "【本周更新】/抗议.md",
-    "【本周更新】/自强.md",
-    "【本周更新】/主导权.md",
-    "【本周更新】/正邪.md",
     "沙海拾金/正邪之分.md",
     "Nell Nell/04 - “好好活着”系列/努力活着.md",
     "Nell Nell/03 - “如何看待”系列/说教.md",
@@ -155,10 +153,6 @@
     "Nell Nell/02 - “怎么办”系列/好恶.md",
     "Nell Nell/02 - “怎么办”系列/不强迫.md",
     "Nell Nell/03 - “如何看待”系列/不给面子.md",
-    "Nell Nell/03 - “如何看待”系列/反歧视.md",
-    "README.md",
-    "Nell Nell/02 - “怎么办”系列/不猜测.md",
-    "Nell Nell/05 - 圣经 & 神学/GOD.md",
-    "Nell Nell/03 - “如何看待”系列/道德公式.md"
+    "Nell Nell/03 - “如何看待”系列/反歧视.md"
   ]
 }
