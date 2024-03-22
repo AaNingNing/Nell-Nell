@@ -11,8 +11,12 @@
             "id": "49510af9615dfb3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/神权王权.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【本周更新】/神权王权.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +133,13 @@
   },
   "active": "49510af9615dfb3b",
   "lastOpenFiles": [
-    "【本周更新】/产后抑郁.md",
-    "【本周更新】/吃醋.md",
-    "【本周更新】/Gaze.md",
-    "【本周更新】/四问美国.md",
+    "【本周更新】/判罪原则.md",
+    "【本周更新】/讨厌的人物.md",
+    "【本周更新】/神权王权.md",
+    "Nell Nell/01 - “是什么”系列/Gaze.md",
+    "Nell Nell/04 - “好好活着”系列/产后抑郁.md",
+    "Nell Nell/03 - “如何看待”系列/四问美国.md",
+    "Nell Nell/02 - “怎么办”系列/吃醋.md",
     "Nell Nell/03 - “如何看待”系列/抗议.md",
     "Nell Nell/02 - “怎么办”系列/主导权.md",
     "Nell Nell/06 - 书评 & 影评/正邪.md",
@@ -150,9 +158,6 @@
     "沙海拾金/繁花.md",
     "Nell Nell/03 - “如何看待”系列/彩礼.md",
     "Nell Nell/01 - “是什么”系列/爱的意志力.md",
-    "Nell Nell/02 - “怎么办”系列/好恶.md",
-    "Nell Nell/02 - “怎么办”系列/不强迫.md",
-    "Nell Nell/03 - “如何看待”系列/不给面子.md",
-    "Nell Nell/03 - “如何看待”系列/反歧视.md"
+    "Nell Nell/02 - “怎么办”系列/好恶.md"
   ]
 }
