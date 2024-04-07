@@ -11,8 +11,12 @@
             "id": "a23e90de6d09dd35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/坠落的审判.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【本周更新】/坠落的审判.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +133,11 @@
   },
   "active": "a23e90de6d09dd35",
   "lastOpenFiles": [
-    "【本周更新】/中国科研.md",
-    "【本周更新】/劝生.md",
-    "【本周更新】/接纳自己.md",
+    "【本周更新】/正确的拒绝.md",
+    "【本周更新】/坠落的审判.md",
+    "Nell Nell/02 - “怎么办”系列/中国科研.md",
+    "Nell Nell/01 - “是什么”系列/接纳自己.md",
+    "Nell Nell/04 - “好好活着”系列/劝生.md",
     "Nell Nell/01 - “是什么”系列/防范的度.md",
     "Nell Nell/02 - “怎么办”系列/判罪原则.md",
     "Nell Nell/05 - 圣经 & 神学/神权王权.md",
@@ -151,8 +158,6 @@
     "Nell Nell/03 - “如何看待”系列/信心.md",
     "Nell Nell/06 - 书评 & 影评/红毯先生.md",
     "Nell Nell/06 - 书评 & 影评/热辣滚烫.md",
-    "沙海拾金/天人合一.md",
-    "沙海拾金/贾玲.md",
-    "沙海拾金/得理更饶人.md"
+    "沙海拾金/天人合一.md"
   ]
 }
