@@ -6,7 +6,7 @@
 
 欢迎大家下载以供个人学习使用。
 
-- 对更多内容感兴趣同学情移步 [织帐篷](https://www.zhihu.com/collection/313814574) 
+- 对更多内容感兴趣同学情移步 [爱发电](https://afdian.net/a/nell_nell) [织帐篷](https://www.zhihu.com/collection/313814574) 
 - 或关注Nell Nell的微信公众号**影子大地shadowlands**
 - 知乎回答指路（AKA自选集）： [知乎回答指路（AKA自选集）](https://zhuanlan.zhihu.com/p/593309417)
 - 笔记相关APP：[idealclover - Caritas APP2.0](https://zhuanlan.zhihu.com/p/556201282)
